@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "y": "saboonexa-7188f",
+    "default": "saboo-nexa-7ded6",
+    "production": "saboo-nexa2"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
