@@ -100,13 +100,13 @@ function BookAService() {
         /> */}
         <img
           //src={require("../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp")}
-          src={require("../../assets/others/Website_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp")}
+          src={require("../../assets/others/Website_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service.webp")}
          // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
           alt=" Maruti Suzuki Service | Maruti Suzuki | Valentines_day Service Center Near ME | Periodic Maintenance Service . Visit https://saboonexa.in/ T&C apply.... | By Saboo RKS |  NEXA | Maruti Suzuki | Winter service saboo Nexa | Year End Service"
           className={`w-full shadow-lg select-none sm:block hidden`}
         />
         <img
-            src={require("../../assets/others/WM_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp")}
+            src={require("../../assets/others/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service.webp")}
          // src={require("../../assets/others/Website_mobile_Maruti_Suzuki_Nexa_Service_Valentines_day_Service_offers_Saboo_RKS_Nexa_service.webp")}
           alt=" Maruti Suzuki Service | Maruti Suzuki | Service Center Near ME | Periodic Maintenance Service . Visit https://saboonexa.in/ T&C apply.... | By Saboo RKS |  NEXA | Maruti Suzuki | Winter service saboo Nexa | Year End Service"
           className="w-full sm:hidden"
