@@ -13,6 +13,7 @@ const BalenoCNG = () => {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
           Maruti Suzuki Baleno CNG - Stylish and Fuel-Efficient Hatchback |
           Saboo Nexa
         </title>
@@ -27,6 +28,21 @@ const BalenoCNG = () => {
         <meta
           name="keywords"
           content="Baleno CNG, Maruti Suzuki Baleno, CNG hatchback, fuel-efficient car, Baleno fuel economy, Saboo Nexa Baleno, CNG technology"
+=======
+        Maruti Suzuki Baleno CNG 2025 – Stylish & Fuel-Efficient Hatchback with April Summer CNG Offers at Saboo Nexa
+        </title>
+        <meta
+          name="title"
+          content="Maruti Suzuki Baleno CNG 2025 – Stylish & Fuel-Efficient Hatchback with April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          name="description"
+          content="Explore the 2025 Maruti Suzuki Baleno CNG at Saboo Nexa with exclusive April summer offers. This stylish and fuel-efficient hatchback delivers excellent performance with CNG technology, perfect for city driving. Enjoy a blend of comfort, style, and economy. Visit us today for more details and schedule your test drive!"
+        />
+        <meta
+          name="keywords"
+          content="Baleno CNG April Summer Offers, Maruti Suzuki Baleno CNG, Fuel-Efficient CNG Hatchback, Baleno CNG Fuel Economy, Saboo Nexa Baleno CNG, CNG Technology Offers, Maruti Baleno CNG 2025, Best CNG Offers April 2025, Baleno CNG Deals Hyderabad, April Summer CNG Deals, Nexa Baleno CNG Offers 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -36,11 +52,19 @@ const BalenoCNG = () => {
         />
         <meta
           property="og:title"
+<<<<<<< HEAD
           content="Maruti Suzuki Baleno CNG - Stylish and Fuel-Efficient Hatchback  | Saboo Nexa"
         />
         <meta
           property="og:description"
           content=" Explore the Maruti Suzuki Baleno CNG at Saboo Nexa. This stylish hatchback offers excellent fuel efficiency with CNG technology, without compromising on performance. Perfect for city driving, the Baleno CNG combines comfort, style, and economy. Visit us for more details and to schedule a test drive."
+=======
+          content="Maruti Suzuki Baleno CNG 2025 – Stylish & Fuel-Efficient Hatchback with April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          property="og:description"
+          content="Explore the 2025 Maruti Suzuki Baleno CNG at Saboo Nexa with exclusive April summer offers. This stylish and fuel-efficient hatchback delivers excellent performance with CNG technology, perfect for city driving. Enjoy a blend of comfort, style, and economy. Visit us today for more details and schedule your test drive!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -57,7 +81,11 @@ const BalenoCNG = () => {
         />
         <meta
           property="twitter:description"
+<<<<<<< HEAD
           content="Explore the Maruti Suzuki Baleno CNG at Saboo Nexa. This stylish hatchback offers excellent fuel efficiency with CNG technology, without compromising on performance. Perfect for city driving, the Baleno CNG combines comfort, style, and economy. Visit us for more details and to schedule a test drive."
+=======
+          content="Explore the 2025 Maruti Suzuki Baleno CNG at Saboo Nexa with exclusive April summer offers. This stylish and fuel-efficient hatchback delivers excellent performance with CNG technology, perfect for city driving. Enjoy a blend of comfort, style, and economy. Visit us today for more details and schedule your test drive!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

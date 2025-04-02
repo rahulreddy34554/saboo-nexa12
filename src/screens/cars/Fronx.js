@@ -42,6 +42,7 @@ const Fronx = () => {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
         Maruti FRONX – The New Benchmark in Style! On-Road Price in Hyderabad from ₹7.51 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
         </title>
         <meta
@@ -55,6 +56,21 @@ const Fronx = () => {
         <meta
           name="keywords"
           content="Maruti Suzuki Fronx offers 2025, Nexa Fronx discounts 2025, Fronx premium SUV discounts, 2025 Fronx festive offers, Maruti Suzuki Fronx Ugadi & Holi offers, Nexa Fronx deals 2025, Fronx 2025, Fronx special offers March 2025, Premium SUV deals 2025, Maruti Suzuki Fronx Nexa 2025 festive sale, Fronx on-road price 2025, Best Nexa Fronx deals 2025, Fronx Holi & Ugadi discounts 2025, Fronx EMI offers 2025, Maruti Fronx finance offers 2025."
+=======
+        Maruti FRONX 2025 – New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹7.51 Lakh at Saboo Nexa Hyderabad!
+        </title>
+        <meta
+          name="title"
+          content="Maruti FRONX 2025 – New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹7.51 Lakh at Saboo Nexa Hyderabad!"
+        />
+        <meta
+          name="description"
+          content="Experience the perfect blend of premium style and comfort with the 2025 Maruti Suzuki Fronx. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream car today with unbeatable offers this season!"
+        />
+        <meta
+          name="keywords"
+          content="2025 Maruti Suzuki Fronx April Summer Offers, Nexa Fronx Discounts 2025, Fronx Premium SUV Summer Deals, Fronx 2025 April Discounts, Maruti Suzuki Fronx April Offers, Nexa Fronx April Summer Sale, Fronx Best Offers April 2025, Fronx On-Road Price April 2025, Fronx EMI Offers April 2025, Maruti Suzuki Fronx Finance Offers April 2025, Premium SUV Summer Deals 2025, Best Nexa Fronx Deals April 2025, Fronx Special Offers April 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
       <Header />

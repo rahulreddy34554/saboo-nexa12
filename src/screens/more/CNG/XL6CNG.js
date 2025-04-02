@@ -13,6 +13,7 @@ const XL6CNG = () => {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
           Maruti Suzuki XL6 CNG - Premium MPV with Exceptional Efficiency | Saboo Nexa
         </title>
         <meta
@@ -26,17 +27,40 @@ const XL6CNG = () => {
         <meta
           name="keywords"
           content="XL6 CNG, Maruti Suzuki XL6, CNG MPV, fuel-efficient MPV, XL6 fuel economy, Saboo Nexa XL6, premium MPV, CNG technology"
+=======
+        Maruti Suzuki XL6 CNG 2025 – Premium MPV with Exceptional Efficiency & April Summer CNG Offers at Saboo Nexa
+        </title>
+        <meta
+          name="title"
+          content="Maruti Suzuki XL6 CNG 2025 – Premium MPV with Exceptional Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          name="description"
+          content="Introducing the 2025 Maruti Suzuki XL6 CNG at Saboo Nexa, a premium MPV that combines luxury with exceptional fuel efficiency. Enjoy spacious interiors, advanced features, and the benefits of CNG technology. Take advantage of exclusive April summer CNG offers and book your test drive today!"
+        />
+        <meta
+          name="keywords"
+          content="XL6 CNG April Summer Offers, Maruti Suzuki XL6 CNG, Fuel-Efficient CNG MPV, XL6 CNG Fuel Economy, Saboo Nexa XL6 CNG, Premium CNG MPV 2025, CNG Technology MPV, Best XL6 CNG Deals April 2025, Maruti XL6 CNG Offers, April Summer CNG MPV Deals, Nexa XL6 CNG Offers 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.saboonexa.in/the-xl6/" />
         <meta
           property="og:title"
+<<<<<<< HEAD
           content="Maruti Suzuki XL6 CNG - Premium MPV with Exceptional Efficiency | Saboo Nexa"
         />
         <meta
           property="og:description"
           content="Introducing the Maruti Suzuki XL6 CNG, a premium MPV that blends luxury with outstanding fuel efficiency. Enjoy spacious interiors, advanced features, and the benefits of CNG technology. Visit Saboo Nexa to experience the XL6 CNG and book your test drive today."
+=======
+          content=" Maruti Suzuki XL6 CNG 2025 – Premium MPV with Exceptional Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          property="og:description"
+          content="Introducing the 2025 Maruti Suzuki XL6 CNG at Saboo Nexa, a premium MPV that combines luxury with exceptional fuel efficiency. Enjoy spacious interiors, advanced features, and the benefits of CNG technology. Take advantage of exclusive April summer CNG offers and book your test drive today!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -49,11 +73,19 @@ const XL6CNG = () => {
         />
         <meta
           property="twitter:title"
+<<<<<<< HEAD
           content="Maruti Suzuki XL6 CNG - Premium MPV with Exceptional Efficiency | Saboo Nexa"
         />
         <meta
           property="twitter:description"
           content="Introducing the Maruti Suzuki XL6 CNG, a premium MPV that blends luxury with outstanding fuel efficiency. Enjoy spacious interiors, advanced features, and the benefits of CNG technology. Visit Saboo Nexa to experience the XL6 CNG and book your test drive today."
+=======
+          content=" Maruti Suzuki XL6 CNG 2025 – Premium MPV with Exceptional Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          property="twitter:description"
+          content="Introducing the 2025 Maruti Suzuki XL6 CNG at Saboo Nexa, a premium MPV that combines luxury with exceptional fuel efficiency. Enjoy spacious interiors, advanced features, and the benefits of CNG technology. Take advantage of exclusive April summer CNG offers and book your test drive today!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

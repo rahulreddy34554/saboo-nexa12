@@ -34,6 +34,7 @@ const Invicto = () => {
     <div className="">
       <Helmet>
         <title>
+<<<<<<< HEAD
         Maruti Invicto – The New Benchmark in Style! On-Road Price in Hyderabad from ₹25.21 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
         </title>
         <meta
@@ -43,11 +44,26 @@ const Invicto = () => {
         <meta
           name="title"
           content="2025 Discounts & Festive Offers on Maruti Suzuki Invicto – Luxury & Savings Combined! Special Mahashivaratri & Valentine's Day Deals at RKS Motor!"
+=======
+        Maruti Invicto 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹25.21 Lakh at Saboo Nexa Hyderabad
+        </title>
+        <meta
+          name="description"
+          content="Unlock exclusive 2025 discounts and April summer offers on the Maruti Suzuki Invicto – where luxury meets savings! Take advantage of special deals at RKS Motor and drive home your dream SUV today with unbeatable offers this season."
+        />
+        <meta
+          name="title"
+          content=" Maruti Invicto 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹25.21 Lakh at Saboo Nexa Hyderabad"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
 
         <meta
           name="keywords"
+<<<<<<< HEAD
           content="Maruti Suzuki Invicto offers 2025, Nexa Invicto discounts 2025, Invicto premium MPV discounts, 2025 Invicto festive offers, Maruti Suzuki Invicto Ugadi & Holi offers, Nexa Invicto deals 2025, Invicto 2025, Invicto special offers March 2025, Premium MPV deals 2025, Maruti Suzuki Invicto Nexa 2025 festive sale, Invicto on-road price 2025, Best Nexa Invicto deals 2025, Invicto Holi & Ugadi discounts 2025, Invicto EMI offers 2025, Maruti Invicto finance offers 2025."
+=======
+          content="2025 Maruti Suzuki Invicto April Summer Offers, Nexa Invicto Discounts 2025, Invicto Premium MPV Summer Deals, Invicto 2025 April Discounts, Maruti Suzuki Invicto April Offers, Nexa Invicto April Summer Sale, Invicto Best Offers April 2025, Invicto On-Road Price April 2025, Invicto EMI Offers April 2025, Maruti Suzuki Invicto Finance Offers April 2025, Premium MPV Summer Deals 2025, Best Nexa Invicto Deals April 2025, Invicto Special Offers April 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
       <Header />

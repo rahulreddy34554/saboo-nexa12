@@ -40,6 +40,7 @@ function Ciaz() {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
         Unbeatable Discounts on the Premium Sedan – Maruti Suzuki Ciaz 2025! Enjoy Ugadi Offers, Holi Deals, and More at RKS Motor.
         </title>
         <meta
@@ -53,6 +54,21 @@ function Ciaz() {
         <meta
           name="keywords"
           content="Maruti Suzuki Ciaz offers 2025, Nexa Ciaz discounts 2025, Ciaz premium sedan discounts, 2025 Ciaz festive offers, Maruti Suzuki Ciaz Ugadi & Holi offers, Nexa Ciaz deals 2025, Ciaz 2025 , Ciaz special offers March 2025, Premium sedan deals 2025, Maruti Suzuki Ciaz Nexa 2025 festive sale, Ciaz on-road price 2025, Best Nexa Ciaz deals 2025, Ciaz Holi & Ugadi discounts 2025, Ciaz EMI offers 2025, Maruti Ciaz finance offers 2025. "
+=======
+        Exclusive April Summer Offers on 2025 Maruti Suzuki Ciaz – Unbeatable Discounts & Special Deals at RKS Motor!
+        </title>
+        <meta
+          name="title"
+          content="Exclusive April Summer Offers on 2025 Maruti Suzuki Ciaz – Unbeatable Discounts & Special Deals at RKS Motor!"
+        />
+        <meta
+          name="description"
+          content="Discover the perfect blend of style and comfort with the 2025 Maruti Suzuki Ciaz. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home luxury today with unbeatable offers this season!"
+        />
+        <meta
+          name="keywords"
+          content="2025 Maruti Suzuki Ciaz April Summer Offers, Nexa Ciaz Discounts 2025, Ciaz Premium Sedan Summer Deals, Ciaz 2025 April Discounts, Maruti Suzuki Ciaz April Offers, Nexa Ciaz April Summer Sale, Ciaz Best Offers April 2025, Ciaz On-Road Price April 2025, Ciaz EMI Offers April 2025, Maruti Suzuki Ciaz Finance Offers April 2025, Premium Sedan Summer Deals 2025, Best Nexa Ciaz Deals April 2025, Ciaz Special Offers April 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -62,11 +78,19 @@ function Ciaz() {
         />
         <meta
           property="og:title"
+<<<<<<< HEAD
           content="Unbeatable Discounts on the Premium Sedan – Maruti Suzuki Ciaz 2025! Enjoy Ugadi Offers, Holi Deals, and More at RKS Motor."
         />
         <meta
           property="og:description"
           content="Experience premium style and comfort with the Maruti Suzuki Ciaz. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
+=======
+          content="Exclusive April Summer Offers on 2025 Maruti Suzuki Ciaz – Unbeatable Discounts & Special Deals at RKS Motor!"
+        />
+        <meta
+          property="og:description"
+          content="Discover the perfect blend of style and comfort with the 2025 Maruti Suzuki Ciaz. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home luxury today with unbeatable offers this season!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -79,11 +103,19 @@ function Ciaz() {
         />
         <meta
           property="twitter:title"
+<<<<<<< HEAD
           content="Unbeatable Discounts on the Premium Sedan – Maruti Suzuki Ciaz 2025! Enjoy Ugadi Offers, Holi Deals, and More at RKS Motor."
         />
         <meta
           property="twitter:description"
           content="Experience premium style and comfort with the Maruti Suzuki Ciaz. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
+=======
+          content="Exclusive April Summer Offers on 2025 Maruti Suzuki Ciaz – Unbeatable Discounts & Special Deals at RKS Motor!"
+        />
+        <meta
+          property="twitter:description"
+          content="Discover the perfect blend of style and comfort with the 2025 Maruti Suzuki Ciaz. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home luxury today with unbeatable offers this season!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

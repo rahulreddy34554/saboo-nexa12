@@ -35,6 +35,7 @@ const Jimny = () => {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
         Maruti Jimny – The New Benchmark in Style! On-Road Price in Hyderabad from ₹12.74 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
         </title>
         <meta
@@ -48,6 +49,21 @@ const Jimny = () => {
         <meta
           name="keywords"
           content="Maruti Suzuki Jimny offers 2025, Nexa Jimny discounts 2025, Jimny premium SUV discounts, 2025 Jimny festive offers, Maruti Suzuki Jimny Ugadi & Holi offers, Nexa Jimny deals 2025, Jimny 2025, Jimny special offers March 2025, Premium SUV deals 2025, Maruti Suzuki Jimny Nexa 2025 festive sale, Jimny on-road price 2025, Best Nexa Jimny deals 2025, Jimny Holi & Ugadi discounts 2025, Jimny EMI offers 2025, Maruti Jimny finance offers 2025."
+=======
+        Maruti Jimny 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹12.74 Lakh at Saboo Nexa Hyderabad
+        </title>
+        <meta
+          name="title"
+          content="Maruti Jimny 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹12.74 Lakh at Saboo Nexa Hyderabad"
+        />
+        <meta
+          name="description"
+          content="Experience the perfect blend of premium style and comfort with the 2025 Maruti Suzuki Jimny. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream SUV today with unbeatable offers this season!"
+        />
+        <meta
+          name="keywords"
+          content="2025 Maruti Suzuki Jimny April Summer Offers, Nexa Jimny Discounts 2025, Jimny Premium SUV Summer Deals, Jimny 2025 April Discounts, Maruti Suzuki Jimny April Offers, Nexa Jimny April Summer Sale, Jimny Best Offers April 2025, Jimny On-Road Price April 2025, Jimny EMI Offers April 2025, Maruti Suzuki Jimny Finance Offers April 2025, Premium SUV Summer Deals 2025, Best Nexa Jimny Deals April 2025, Jimny Special Offers April 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
 

@@ -31,10 +31,17 @@ function Accessories() {
   return (
     <>
       <Helmet>
+<<<<<<< HEAD
         <title>Buy Maruti Suzuki Genuine Accessories Online - RKS Motors</title>
         <meta
           name="title"
           content="Buy Maruti Suzuki Genuine Accessories Online - RKS Motors"
+=======
+        <title>Shop Maruti Suzuki Genuine Accessories Online at RKS Motors – Premium Quality & Best Deals!</title>
+        <meta
+          name="title"
+          content="Shop Maruti Suzuki Genuine Accessories Online at RKS Motors – Premium Quality & Best Deals!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           name="description"
@@ -42,7 +49,11 @@ function Accessories() {
         />
         <meta
           name="keywords"
+<<<<<<< HEAD
           content="Maruti Suzuki accessories, Buy Maruti Suzuki accessories online, RKS Motor, Jimny accessories, Ignis accessories, Baleno accessories, Grand Vitara accessories, Ciaz accessories, Maruti Suzuki spare parts, Genuine Maruti Suzuki parts"
+=======
+          content="Maruti Suzuki Accessories, Buy Maruti Suzuki Accessories Online, RKS Motors Accessories, Jimny Accessories, Ignis Accessories, Baleno Accessories, Grand Vitara Accessories, Ciaz Accessories, Maruti Suzuki Spare Parts, Genuine Maruti Suzuki Parts, Maruti Suzuki Car Accessories, Genuine Accessories for Maruti Suzuki, Maruti Suzuki Online Accessories Shop, Best Maruti Suzuki Accessories Deals, Premium Maruti Accessories Online."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
       <Header col={true} />

@@ -51,6 +51,7 @@ function Home({ setSelected }) {
     <div className='relative'>
       <Helmet>
         <title>
+<<<<<<< HEAD
         Saboo Nexa – Best Maruti Suzuki Nexa Dealer in Hyderabad | Luxury Car Showroom & Offers
         </title>
         <meta
@@ -64,17 +65,40 @@ function Home({ setSelected }) {
         <meta
           name='keywords'
           content='Saboo Nexa Hyderabad, Best Maruti Suzuki Nexa cars in Hyderabad, Premium cars in Hyderabad, Nexa showroom Hyderabad, Exclusive Nexa car deals, Unbeatable Nexa offers 2025, Maruti Suzuki premium cars, Luxury cars in Hyderabad, Top Nexa cars in Hyderabad, Buy a Nexa car in Hyderabad, Best Nexa car dealership in Hyderabad, Maruti Nexa on-road price Hyderabad, Nexa car exchange offers Hyderabad, Maruti Suzuki Nexa finance offers, Hyderabad’s trusted Nexa car showroom, Nexa cars EMI options Hyderabad.'
+=======
+        Saboo Nexa – Best Maruti Suzuki Nexa Dealer in Hyderabad | Luxury Car Showroom with Exclusive Summer Offers
+        </title>
+        <meta
+          name='title'
+          content='Saboo Nexa – Best Maruti Suzuki Nexa Dealer in Hyderabad | Luxury Car Showroom with Exclusive Summer Offers'
+        />
+        <meta
+          name='description'
+          content="Explore the latest Maruti Suzuki Nexa models at Saboo Nexa, Hyderabad's leading luxury car dealership. Enjoy exclusive offers, unbeatable discounts, and exceptional customer service. Drive home your dream Nexa car today with the best deals and premium experience!"
+        />
+        <meta
+          name='keywords'
+          content='Saboo Nexa Hyderabad, Best Maruti Suzuki Nexa Cars in Hyderabad, Premium Cars in Hyderabad, Nexa Showroom Hyderabad, Exclusive Nexa Car Deals, Unbeatable Nexa Offers 2025, Maruti Suzuki Premium Cars, Luxury Cars in Hyderabad, Top Nexa Cars in Hyderabad, Buy Nexa Car in Hyderabad, Best Nexa Car Dealership in Hyderabad, Maruti Nexa On-Road Price Hyderabad, Nexa Car Exchange Offers Hyderabad, Maruti Suzuki Nexa Finance Offers, Trusted Nexa Car Showroom in Hyderabad, Nexa Cars EMI Options Hyderabad.'
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name='author' content='BroaddCast Business Solutions' />
         <meta property='og:type' content='website' />
         <meta property='og:url' content='https://www.saboonexa.in/' />
         <meta
           property='og:title'
+<<<<<<< HEAD
           content='Saboo Nexa - Premium Maruti Suzuki Car Dealership in Hyderabad'
         />
         <meta
           property='og:description'
           content='Discover the latest Maruti Suzuki Nexa models at Saboo Nexa, your trusted car dealership in Hyderabad. Explore our range of premium vehicles, enjoy exceptional service, and find exclusive offers. Visit us today to experience luxury and performance like never before. '
+=======
+          content='Saboo Nexa – Best Maruti Suzuki Nexa Dealer in Hyderabad | Luxury Car Showroom with Exclusive Summer Offers'
+        />
+        <meta
+          property='og:description'
+          content='Explore the latest Maruti Suzuki Nexa models at Saboo Nexa, Hyderabad leading luxury car dealership. Enjoy exclusive offers, unbeatable discounts, and exceptional customer service. Drive home your dream Nexa car today with the best deals and premium experience! '
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property='og:image'
@@ -84,11 +108,19 @@ function Home({ setSelected }) {
         <meta property='twitter:url' content='https://www.saboonexa.in/' />
         <meta
           property='twitter:title'
+<<<<<<< HEAD
           content='Maruti Suzuki Authorized Car Dealer in Hyderabad & Secunderabad |RKS Motors'
         />
         <meta
           property='twitter:description'
           content='RKS Motor is one of the most trusted Nexa dealers in Hyderabad & Secunderabad. New Nexa car models Maruti Baleno, Maruti Baleno RS, Nexa Ignis, Nexa Scross, Maruti Ciaz & Nexa XL6.'
+=======
+          content='Saboo Nexa – Best Maruti Suzuki Nexa Dealer in Hyderabad | Luxury Car Showroom with Exclusive Summer Offers'
+        />
+        <meta
+          property='twitter:description'
+          content="Explore the latest Maruti Suzuki Nexa models at Saboo Nexa, Hyderabad's leading luxury car dealership. Enjoy exclusive offers, unbeatable discounts, and exceptional customer service. Drive home your dream Nexa car today with the best deals and premium experience!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property='twitter:image'
@@ -1024,7 +1056,11 @@ const Offer = () => {
       <Link to='/nexa-car-offers-in-hyderabad'>
         <div className='hidden sm:block'>
           <img
+<<<<<<< HEAD
             src={require('../../assets/others/Holi-web-Banner-Nexa.webp')}
+=======
+            src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
+>>>>>>> 2d3a291 (updated meta and banners)
             alt='components/Website_Maruti_Suzuki_Nexa_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor (1).webp'
             className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
             loading='lazy'
@@ -1032,7 +1068,11 @@ const Offer = () => {
         </div>
         <div className='sm:hidden'>
           <img
+<<<<<<< HEAD
             src={require('../../assets/others/Holi-mobile-web-Banner-Nexa.webp')}
+=======
+            src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
+>>>>>>> 2d3a291 (updated meta and banners)
             // src={require("../../Website_Mobile_Maruti_Suzuki_Nexa_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor (1).webp")}
             // src={require("../../assets/HomePageImages/Website_Mobile_Maruti_Suzuki_Nexa_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor_Nexa.webp")}
             alt='Mobile_Maruti_Suzuki_Nexa_Year_End_Offers_Remember_To_Remember_Offers_Saboo_RKS_Motor_Nexa'

@@ -15,6 +15,7 @@ const FronxCNG = () => {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
           Maruti Suzuki Fronx CNG - Compact SUV with Smart Efficiency | Saboo Nexa
         </title>
         <meta
@@ -28,17 +29,40 @@ const FronxCNG = () => {
         <meta
           name="keywords"
           content="Fronx CNG, Maruti Suzuki Fronx, CNG compact SUV, fuel-efficient SUV, Fronx fuel economy, Saboo Nexa Fronx, versatile SUV, CNG technology"
+=======
+        Maruti Suzuki Fronx CNG 2025 – Compact SUV with Smart Efficiency & April Summer CNG Offers at Saboo Nexa
+        </title>
+        <meta
+          name="title"
+          content="Maruti Suzuki Fronx CNG 2025 – Compact SUV with Smart Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          name="description"
+          content="Discover the 2025 Maruti Suzuki Fronx CNG at Saboo Nexa, a compact SUV offering smart efficiency and impressive performance. Equipped with advanced CNG technology, the Fronx CNG is the ideal choice for those seeking fuel economy and versatility. Take advantage of exclusive April summer CNG offers and schedule your test drive today!"
+        />
+        <meta
+          name="keywords"
+          content="Fronx CNG April Summer Offers, Maruti Suzuki Fronx CNG, Fuel-Efficient CNG Compact SUV, Fronx CNG Fuel Economy, Saboo Nexa Fronx CNG, Versatile SUV CNG Offers, CNG Technology SUV 2025, Best Fronx CNG Deals April 2025, Maruti Fronx CNG Offers, April Summer CNG Deals, Nexa Fronx CNG Offers 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.saboonexa.in/the-xl6/" />
         <meta
           property="og:title"
+<<<<<<< HEAD
           content="Maruti Suzuki Fronx CNG - Compact SUV with Smart Efficiency | Saboo Nexa"
         />
         <meta
           property="og:description"
           content="Discover the Maruti Suzuki Fronx CNG, a compact SUV that offers smart efficiency and impressive performance. With advanced CNG technology, the Fronx CNG is perfect for those who value fuel economy and versatility. Visit Saboo Nexa to learn more and arrange a test drive."
+=======
+          content="Maruti Suzuki Fronx CNG 2025 – Compact SUV with Smart Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          property="og:description"
+          content="Discover the 2025 Maruti Suzuki Fronx CNG at Saboo Nexa, a compact SUV offering smart efficiency and impressive performance. Equipped with advanced CNG technology, the Fronx CNG is the ideal choice for those seeking fuel economy and versatility. Take advantage of exclusive April summer CNG offers and schedule your test drive today!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -51,11 +75,19 @@ const FronxCNG = () => {
         />
         <meta
           property="twitter:title"
+<<<<<<< HEAD
           content="Maruti Suzuki Fronx CNG - Compact SUV with Smart Efficiency | Saboo Nexa"
         />
         <meta
           property="twitter:description"
           content="Discover the Maruti Suzuki Fronx CNG, a compact SUV that offers smart efficiency and impressive performance. With advanced CNG technology, the Fronx CNG is perfect for those who value fuel economy and versatility. Visit Saboo Nexa to learn more and arrange a test drive."
+=======
+          content="Maruti Suzuki Fronx CNG 2025 – Compact SUV with Smart Efficiency & April Summer CNG Offers at Saboo Nexa"
+        />
+        <meta
+          property="twitter:description"
+          content="Discover the 2025 Maruti Suzuki Fronx CNG at Saboo Nexa, a compact SUV offering smart efficiency and impressive performance. Equipped with advanced CNG technology, the Fronx CNG is the ideal choice for those seeking fuel economy and versatility. Take advantage of exclusive April summer CNG offers and schedule your test drive today!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

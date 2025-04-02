@@ -45,6 +45,7 @@ function Ignis() {
     <>
       <Helmet>
         <title>
+<<<<<<< HEAD
         Maruti Ignis – The New Benchmark in Style! On-Road Price in Hyderabad from ₹5.84 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
         </title>
         <meta
@@ -58,6 +59,21 @@ function Ignis() {
         <meta
           name="keywords"
           content="Maruti Suzuki Ignis offers 2025, Nexa Ignis discounts 2025, Ignis premium hatchback discounts, 2025 Ignis festive offers, Maruti Suzuki Ignis Ugadi & Holi offers, Nexa Ignis deals 2025, Ignis 2025, Ignis special offers March 2025, Premium hatchback deals 2025, Maruti Suzuki Ignis Nexa 2025 festive sale, Ignis on-road price 2025, Best Nexa Ignis deals 2025, Ignis Holi & Ugadi discounts 2025, Ignis EMI offers 2025, Maruti Ignis finance offers 2025."
+=======
+        Maruti Ignis 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹5.84 Lakh at Saboo Nexa Hyderabad
+        </title>
+        <meta
+          name="title"
+          content="Maruti Ignis 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹5.84 Lakh at Saboo Nexa Hyderabad"
+        />
+        <meta
+          name="description"
+          content="Experience the perfect combination of premium style and comfort with the 2025 Maruti Suzuki Ignis. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream hatchback today with unbeatable offers this season!"
+        />
+        <meta
+          name="keywords"
+          content="2025 Maruti Suzuki Ignis April Summer Offers, Nexa Ignis Discounts 2025, Ignis Premium Hatchback Summer Deals, Ignis 2025 April Discounts, Maruti Suzuki Ignis April Offers, Nexa Ignis April Summer Sale, Ignis Best Offers April 2025, Ignis On-Road Price April 2025, Ignis EMI Offers April 2025, Maruti Suzuki Ignis Finance Offers April 2025, Premium Hatchback Summer Deals 2025, Best Nexa Ignis Deals April 2025, Ignis Special Offers April 2025."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -67,11 +83,19 @@ function Ignis() {
         />
         <meta
           property="og:title"
+<<<<<<< HEAD
           content="Maruti Ignis – The New Benchmark in Style! On-Road Price in Hyderabad from ₹5.84 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa"
         />
         <meta
           property="og:description"
           content=" Experience premium style and comfort with the Maruti Suzuki Ignis. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today! "
+=======
+          content="Maruti Ignis 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹5.84 Lakh at Saboo Nexa Hyderabad"
+        />
+        <meta
+          property="og:description"
+          content=" Experience the perfect combination of premium style and comfort with the 2025 Maruti Suzuki Ignis. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream hatchback today with unbeatable offers this season!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -84,11 +108,19 @@ function Ignis() {
         />
         <meta
           property="twitter:title"
+<<<<<<< HEAD
           content="Maruti Ignis – The New Benchmark in Style! On-Road Price in Hyderabad from ₹5.84 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa"
         />
         <meta
           property="twitter:description"
           content="Experience premium style and comfort with the Maruti Suzuki Ignis. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
+=======
+          content="Maruti Ignis 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹5.84 Lakh at Saboo Nexa Hyderabad"
+        />
+        <meta
+          property="twitter:description"
+          content="Experience the perfect combination of premium style and comfort with the 2025 Maruti Suzuki Ignis. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream hatchback today with unbeatable offers this season!"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

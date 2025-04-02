@@ -33,12 +33,20 @@ function BookAService() {
       <Header />
       <Helmet>
         <title>
+<<<<<<< HEAD
           Best Nexa service center in Hyderabad | Saboo Nexa Car Servicing
           Showroom & Trusted Nexa Service Center | Saboo Nexa"
         </title>
         <meta
           name="title"
           content="Best Nexa service center in Hyderabad | Saboo Nexa Car Servicing Showroom & Trusted Nexa Service Center | Saboo Nexa"
+=======
+        Best Nexa Service Center in Hyderabad | Book Your Summer Service Offers at Saboo Nexa for Premium Car Care
+        </title>
+        <meta
+          name="title"
+          content="Best Nexa Service Center in Hyderabad | Book Your Summer Service Offers at Saboo Nexa for Premium Car Care"
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           name="description"
@@ -46,7 +54,11 @@ function BookAService() {
         />
         <meta
           name="keywords"
+<<<<<<< HEAD
           content="Saboo Nexa Car servicing in Hyderabad, Best Nexa service center in Hyderabad, Best Maruti Suzuki car delears in Hyderabad, Best Car Servicing center in Kukatpally, Best Car Servicing center in Kompally, Best Car servicing center in Somajiguda, Best car Servicing center in Hyderabad, Baleno car service center, Ignis car service center, Ciaz car service center,Maruti Nexa service center in Uppal., 2025 Discounts and festive service Offers | January Service Offers, Maruti suzuki service offers, "
+=======
+          content="Summer Car Service Offers at Saboo Nexa – Best Nexa Service Center in Hyderabad! Enjoy exclusive summer discounts and festive service offers at Saboo Nexa, the best car servicing center in Kukatpally, Kompally, Somajiguda, and Uppal. Get your Baleno, Ignis, Ciaz, or any Maruti Suzuki vehicle serviced by our expert technicians. Take advantage of our 2025 summer service offers and special service packages today! Call 98488 98488 to book your appointment and experience top-tier service at the best Nexa service center in Hyderabad."
+>>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
