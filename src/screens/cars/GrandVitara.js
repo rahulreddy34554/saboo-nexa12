@@ -35,19 +35,11 @@ function GrandVitara() {
     <>
       <Helmet>
         <title>
-<<<<<<< HEAD
-        Maruti GRAND-VITARA – The New Benchmark in Style! On-Road Price in Hyderabad from ₹7.51 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
-        </title>
-        <meta
-          name="title"
-          content=" Maruti GRAND-VITARA – The New Benchmark in Style! On-Road Price in Hyderabad from ₹7.51 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa"
-=======
         Maruti GRAND VITARA 2025 – New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹10.70 Lakh at Saboo Nexa Hyderabad!
         </title>
         <meta
           name="title"
           content=" Maruti GRAND VITARA 2025 – New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹10.70 Lakh at Saboo Nexa Hyderabad!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           name="description"
@@ -55,11 +47,7 @@ function GrandVitara() {
         />
         <meta
           name="keywords"
-<<<<<<< HEAD
-          content="Maruti Suzuki Grand Vitara offers 2025, Nexa Grand Vitara discounts 2025, Grand Vitara premium SUV discounts, 2025 Grand Vitara festive offers, Maruti Suzuki Grand Vitara Ugadi & Holi offers, Nexa Grand Vitara deals 2025, Grand Vitara 2025, Grand Vitara special offers March 2025, Premium SUV deals 2025, Maruti Suzuki Grand Vitara Nexa 2025 festive sale, Grand Vitara on-road price 2025, Best Nexa Grand Vitara deals 2025, Grand Vitara Holi & Ugadi discounts 2025, Grand Vitara EMI offers 2025, Maruti Grand Vitara finance offers 2025. "
-=======
           content="2025 Maruti Suzuki Grand Vitara April Summer Offers, Nexa Grand Vitara Discounts 2025, Grand Vitara Premium SUV Summer Deals, Grand Vitara 2025 April Discounts, Maruti Suzuki Grand Vitara April Offers, Nexa Grand Vitara April Summer Sale, Grand Vitara Best Offers April 2025, Grand Vitara On-Road Price April 2025, Grand Vitara EMI Offers April 2025, Maruti Suzuki Grand Vitara Finance Offers April 2025, Premium SUV Summer Deals 2025, Best Nexa Grand Vitara Deals April 2025, Grand Vitara Special Offers April 2025."
->>>>>>> 2d3a291 (updated meta and banners)
         />
         {/*  <meta name="author" content="Broaddcast" />
           <meta property="og:type" content="website" />

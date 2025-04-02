@@ -33,23 +33,6 @@ function Offers() {
     <>
       <Helmet>
         <title>
-<<<<<<< HEAD
-          Maruti Suzuki 2025 Discounts and festive Offers | New Cars Offers &
-          Discounts - Saboo Nexa
-        </title>
-        <meta
-          name="title"
-          content="   Maruti Suzuki 2025 Discounts and festive Offers | New Cars
-          Offers & Discounts - Saboo Nexa"
-        />
-        <meta
-          name="description"
-          content="Maruti Suzuki 2025 Discounts and festive Offers  Special Offers 2025 - RKS Motor. Save up to Rs 1,03,000 on Grand Vitara and new models | Discounts on Maruti Grand Vitara, Fronx, Baleno, Ciaz, Ignis, Jimny, XL6"
-        />
-        <meta
-          name="keywords"
-          content="RKS Motor, Maruti Suzuki,  Special Offers ,2025 Discounts and festive Offers, Nexa offers, Grand Vitara, Fronx, Baleno, Ciaz, Ignis, Jimny, XL6, Saboo Nexa offers, 2025 Discounts and festive Offers, Saboo Nexa offers,  Saboo nexa,  nexa car offers nexa car offers January 2025, nexa car offers year  2025, maruti nexa car offers, nexa car low price, which car comes under nexa, nexa car discount, nexa service offers, 2025 Discounts and festive Offers"
-=======
         Summer 2025 Car Service Offers & Discounts | Maruti Suzuki New Cars & Service Deals - Saboo Nexa
         </title>
         <meta
@@ -63,7 +46,6 @@ function Offers() {
         <meta
           name="keywords"
           content="Summer 2025 Offers & Discounts at RKS Motor and Saboo Nexa – Best Deals on Maruti Suzuki & Nexa Cars! Save up to Rs 1,03,000 on Grand Vitara, Fronx, Baleno, Ciaz, Ignis, Jimny, XL6 with exclusive Nexa car offers and 2025 discounts. Nexa car discounts and Nexa service offers available for January 2025. Get Maruti Nexa car offers at low prices and explore the full range of Nexa cars like Baleno, Ciaz, and more. Take advantage of Saboo Nexa offers and festive deals today! Call 98488 98488 to book your test drive or service appointment and enjoy unbeatable summer offers at RKS Motor and Saboo Nexa."
->>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
 
@@ -107,11 +89,7 @@ function Offers() {
               <img
                 //  src={require("../../components/Website_Maruti_Suzuki_Nexa_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor (1).webp")}
                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
-<<<<<<< HEAD
-               src={require('../../assets/others/Holi-web-Banner-Nexa.webp')}
-=======
                src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
->>>>>>> 2d3a291 (updated meta and banners)
                 alt="Holi-web-Banner-Nexa.webp"
                 className={` w-full `}
                 loading="lazy"
@@ -121,11 +99,7 @@ function Offers() {
           <SwiperSlide className="">
             <div className="hidden sm:block">
               <img
-<<<<<<< HEAD
-                src={require('../../assets/others/Holi-web-Banner-Nexa.webp')}
-=======
                 src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
->>>>>>> 2d3a291 (updated meta and banners)
                 //  src={require("../../components/Website_Maruti_Suzuki_Nexa_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor (1).webp")}
                 //src={require("../../assets/HomePageImages/Ignis_Radiance_Edition_banner_Augest_2024_Maruti_Suzuki_Saboo_Nexa.webp")}
                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
@@ -155,11 +129,7 @@ function Offers() {
         </Swiper>
         <div className="sm:hidden">
           <img
-<<<<<<< HEAD
-             src={require('../../assets/others/Holi-mobile-web-Banner-Nexa.webp')}
-=======
              src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
->>>>>>> 2d3a291 (updated meta and banners)
             //  src={require("../../assets/WM__Maruti_Suzuki_Arena_New_Year_Offers_2025_Sankranti_offers_are_live_at_Saboo_RKS_Motor.webp")}
             // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/banners/Website_Mobile_Maruti_Suzuki_No1_SUV_Maker_Saboo_RKS_Motor_October_Offers.webp"
             alt="Maruti_Suzuki_No1_SUV_Maker_Saboo_RKS_Motor_Hyderabad_Dealer_Offers_Service_Invicto_Fronx_Xl6_Jimny_GrandVitara_Ciaz_Ignis_Baleno_Nexa_Car_Black_Edition_Mobile"

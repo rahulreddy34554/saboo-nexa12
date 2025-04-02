@@ -50,21 +50,6 @@ function XL() {
     <>
       <Helmet>
         <title>
-<<<<<<< HEAD
-        Maruti XL6 – The New Benchmark in Style! On-Road Price in Hyderabad from ₹11.61 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa
-        </title>
-        <meta
-          name="title"
-          content="Maruti XL6 – The New Benchmark in Style! On-Road Price in Hyderabad from ₹11.61 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa!"
-        />
-        <meta
-          name="description"
-          content="Experience premium style and comfort with the Maruti Suzuki XL6. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-        />
-        <meta
-          name="keywords"
-          content="Maruti Suzuki XL6 offers 2025, Nexa XL6 discounts 2025, XL6 premium MPV discounts, 2025 XL6 festive offers, Maruti Suzuki XL6 Ugadi & Holi offers, Nexa XL6 deals 2025, XL6 2025, XL6 special offers March 2025, Premium MPV deals 2025, Maruti Suzuki XL6 Nexa 2025 festive sale, XL6 on-road price 2025, Best Nexa XL6 deals 2025, XL6 Holi & Ugadi discounts 2025, XL6 EMI offers 2025, Maruti XL6 finance offers 2025."
-=======
         Maruti XL6 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹11.61 Lakh at Saboo Nexa Hyderabad
         </title>
         <meta
@@ -78,26 +63,17 @@ function XL() {
         <meta
           name="keywords"
           content="2025 Maruti Suzuki XL6 April Summer Offers, Nexa XL6 Discounts 2025, XL6 Premium MPV Summer Deals, XL6 2025 April Discounts, Maruti Suzuki XL6 April Offers, Nexa XL6 April Summer Sale, XL6 Best Offers April 2025, XL6 On-Road Price April 2025, XL6 EMI Offers April 2025, Maruti Suzuki XL6 Finance Offers April 2025, Premium MPV Summer Deals 2025, Best Nexa XL6 Deals April 2025, XL6 Special Offers April 2025."
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.saboonexa.in/the-xl6/" />
         <meta
           property="og:title"
-<<<<<<< HEAD
-          content="Maruti XL6 – The New Benchmark in Style! On-Road Price in Hyderabad from ₹11.61 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa"
-        />
-        <meta
-          property="og:description"
-          content="Experience premium style and comfort with the Maruti Suzuki XL6. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-=======
           content=" Maruti XL6 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹11.61 Lakh at Saboo Nexa Hyderabad"
         />
         <meta
           property="og:description"
           content="Experience premium style and unmatched comfort with the 2025 Maruti Suzuki XL6. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream premium MPV today with unbeatable offers this season!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -110,19 +86,11 @@ function XL() {
         />
         <meta
           property="twitter:title"
-<<<<<<< HEAD
-          content="Maruti XL6 – The New Benchmark in Style! On-Road Price in Hyderabad from ₹11.61 Lakh | Exclusive Ugadi & Holi Offers at Saboo Nexa"
-        />
-        <meta
-          property="twitter:description"
-          content="Experience premium style and comfort with the Maruti Suzuki XL6. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-=======
           content=" Maruti XL6 2025 – The New Benchmark in Style! April Summer Offers & Exclusive Deals Starting at ₹11.61 Lakh at Saboo Nexa Hyderabad"
         />
         <meta
           property="twitter:description"
           content="Experience premium style and unmatched comfort with the 2025 Maruti Suzuki XL6. Take advantage of exclusive April summer offers, along with special discounts and deals at Nexa showrooms. Drive home your dream premium MPV today with unbeatable offers this season!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"

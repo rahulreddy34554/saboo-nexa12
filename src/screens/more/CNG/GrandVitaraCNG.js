@@ -23,17 +23,6 @@ const GrandVitaraCNG = () => {
     <>
       <Helmet>
         <title>
-<<<<<<< HEAD
-          Maruti Suzuki Grand Vitara CNG - Efficient and Powerful SUV | Saboo Nexa
-        </title>
-        <meta
-          name="title"
-          content="Maruti Suzuki Grand Vitara CNG - Efficient and Powerful SUV | Saboo Nexa"
-        />
-        <meta
-          name="description"
-          content="Discover the Maruti Suzuki Grand Vitara CNG, combining efficiency and power in a stylish SUV. Experience superior fuel economy with the latest CNG technology, while enjoying a spacious and luxurious interior. Visit Saboo Nexa to learn more and book a test drive today."
-=======
         Maruti Suzuki Grand Vitara CNG 2025 – Efficient & Powerful SUV with April Summer CNG Offers at Saboo Nexa
         </title>
         <meta
@@ -43,16 +32,11 @@ const GrandVitaraCNG = () => {
         <meta
           name="description"
           content="Discover the 2025 Maruti Suzuki Grand Vitara CNG at Saboo Nexa, where efficiency meets power in a stylish SUV. Enjoy superior fuel economy with the latest CNG technology, along with a spacious and luxurious interior. Take advantage of exclusive April summer CNG offers and book your test drive today!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
 
         <meta
           name="keywords"
-<<<<<<< HEAD
-          content="Grand Vitara CNG, Maruti Suzuki Grand Vitara, CNG SUV, fuel-efficient SUV, Grand Vitara fuel economy, Saboo Nexa Grand Vitara, CNG technology"
-=======
           content="Grand Vitara CNG April Summer Offers, Maruti Suzuki Grand Vitara CNG, Fuel-Efficient CNG SUV, Grand Vitara CNG Fuel Economy, Saboo Nexa Grand Vitara CNG, CNG Technology SUV 2025, Best Grand Vitara CNG Deals April 2025, Maruti Grand Vitara CNG Offers, April Summer CNG SUV Deals, Nexa Grand Vitara CNG Offers 2025."
->>>>>>> 2d3a291 (updated meta and banners)
         />
       </Helmet>
       <Header />

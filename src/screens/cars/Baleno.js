@@ -41,21 +41,6 @@ function Baleno() {
     <>
       <Helmet>
         <title>
-<<<<<<< HEAD
-        Exciting 2025 Maruti Suzuki Baleno Festive Discounts & Premium Hatchback Offers at RKS Motor – Unmissable Savings this Ugadi & Holi festivals!
-        </title>
-        <meta
-          name="title"
-          content="Maruti Suzuki Baleno 2025 Discounts and Ugadi & Holi festival offers - Premium Hatchback Savings at RKS Motor  "
-        />
-        <meta
-          name="description"
-          content="Experience premium style and comfort with the Maruti Suzuki Baleno. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-        />
-        <meta
-          name="keywords"
-          content="Maruti Suzuki Baleno offers 2025, Nexa Baleno discounts 2025, Baleno premium hatchback discounts, 2025 Baleno festive offers, Maruti Suzuki Baleno Ugadi & Holi offers, Baleno Valentine’s Day discounts, Nexa Baleno deals 2025, Baleno 2025 new year offers, Baleno special offers March 2025, Premium hatchback deals 2025, Maruti Suzuki Baleno Nexa 2025 festive sale, Baleno on-road price 2025, Best Nexa Baleno deals 2025, Baleno Holi & Ugadi discounts 2025, Baleno EMI offers 2025, Maruti Baleno finance offers 2025"
-=======
         Unbeatable April Summer Offers on 2025 Maruti Suzuki Baleno at RKS Motor – Exclusive Discounts & Premium Hatchback Deals!
         </title>
         <meta
@@ -69,7 +54,6 @@ function Baleno() {
         <meta
           name="keywords"
           content="2025 Maruti Suzuki Baleno April Summer Offers, Nexa Baleno Discounts 2025, Baleno Premium Hatchback Summer Deals, Baleno 2025 April Discounts, Maruti Suzuki Baleno April Offers, Nexa Baleno April Summer Sale, Baleno Best Offers April 2025, Baleno On-Road Price April 2025, Baleno EMI Offers April 2025, Maruti Suzuki Baleno Finance Offers April 2025, Premium Hatchback Summer Deals 2025, Baleno April Discounts 2025, Best Nexa Baleno Deals April 2025, Baleno Special Offers April 2025."
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta name="author" content="Broaddcast" />
         <meta property="og:type" content="website" />
@@ -79,19 +63,11 @@ function Baleno() {
         />
         <meta
           property="og:title"
-<<<<<<< HEAD
-          content="  Exciting 2025 Maruti Suzuki Baleno Festive Discounts & Premium Hatchback Offers at RKS Motor – Unmissable Savings this Ugadi & Holi festivals!"
-        />
-        <meta
-          property="og:description"
-          content="Experience premium style and comfort with the Maruti Suzuki Baleno. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-=======
           content=" Unbeatable April Summer Offers on 2025 Maruti Suzuki Baleno at RKS Motor – Exclusive Discounts & Premium Hatchback Deals!"
         />
         <meta
           property="og:description"
           content="Experience the perfect blend of style and comfort with the 2025 Maruti Suzuki Baleno. Take advantage of exclusive April summer offers and special discounts at Nexa showrooms. Drive home your dream premium hatchback today with unbeatable deals!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="og:image"
@@ -104,19 +80,11 @@ function Baleno() {
         />
         <meta
           property="twitter:title"
-<<<<<<< HEAD
-          content=" Exciting 2025 Maruti Suzuki Baleno Festive Discounts & Premium Hatchback Offers at RKS Motor – Unmissable Savings this Ugadi & Holi festivals!"
-        />
-        <meta
-          property="twitter:description"
-          content="Experience premium style and comfort with the Maruti Suzuki Baleno. Enjoy exclusive 2025 discounts, Ugadi and Holi offers at Nexa showrooms. Drive home luxury with special festive deals today!"
-=======
           content=" Unbeatable April Summer Offers on 2025 Maruti Suzuki Baleno at RKS Motor – Exclusive Discounts & Premium Hatchback Deals!"
         />
         <meta
           property="twitter:description"
           content="Experience the perfect blend of style and comfort with the 2025 Maruti Suzuki Baleno. Take advantage of exclusive April summer offers and special discounts at Nexa showrooms. Drive home your dream premium hatchback today with unbeatable deals!"
->>>>>>> 2d3a291 (updated meta and banners)
         />
         <meta
           property="twitter:image"
