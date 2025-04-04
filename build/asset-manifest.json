@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7b17e36.css",
-    "main.js": "/static/js/main.40dd1b17.js",
+    "main.js": "/static/js/main.57228d34.js",
     "static/js/703.31b2cca3.chunk.js": "/static/js/703.31b2cca3.chunk.js",
     "static/js/102.7ab9673a.chunk.js": "/static/js/102.7ab9673a.chunk.js",
     "static/media/SABOO_NEXA_24_7_SERVICE.jpg": "/static/media/SABOO_NEXA_24_7_SERVICE.19dfe10366aafa639eb8.jpg",
@@ -12,17 +12,17 @@
     "static/media/Maruti_Ignis_Price_in_Hyderabad.jpg": "/static/media/Maruti_Ignis_Price_in_Hyderabad.95e919077769c8de8b0d.jpg",
     "static/media/Maruti_Ciaz_December_offers.jpg": "/static/media/Maruti_Ciaz_December_offers.2875f5113852bddcce70.jpg",
     "static/media/Nexa_Baleno_offers _in_Hyderabad.webp": "/static/media/Nexa_Baleno_offers _in_Hyderabad.cfb7bd32b4240ed4c428.webp",
+    "static/media/Website_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp": "/static/media/Website_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).5699218b812d58f47d6b.webp",
     "static/media/MARUTI_SUZUKI_NEXA_JIMNY_THUNDER_EDITION.webp": "/static/media/MARUTI_SUZUKI_NEXA_JIMNY_THUNDER_EDITION.b8de5a48d3866086b537.webp",
     "static/media/SABOO_NEXA_LUMBINI_SHOWROOM_HYDERABAD.webp.webp": "/static/media/SABOO_NEXA_LUMBINI_SHOWROOM_HYDERABAD.webp.9da8ddbd0719416ab2ee.webp",
     "static/media/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp": "/static/media/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.369fcbdf9477c42595bf.webp",
     "static/media/Maruti_Fronx_Price_in_Hyderabad.webp": "/static/media/Maruti_Fronx_Price_in_Hyderabad.d5b0e77b0e01cd2b0e72.webp",
     "static/media/Maruti_Xl6_offers_Price_in_Hyderabad.webp": "/static/media/Maruti_Xl6_offers_Price_in_Hyderabad.89d56c6984625de48341.webp",
-    "static/media/Website_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp": "/static/media/Website_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.4da4d5d54862a76d474d.webp",
     "static/media/Evitara.png": "/static/media/Evitara.5f9cf10c7f8841f0387b.png",
     "static/media/Saboo_Maruti_Driving_School _in_Hyderabad_Driving_School_Near_Me.webp": "/static/media/Saboo_Maruti_Driving_School _in_Hyderabad_Driving_School_Near_Me.06e096a719ade259d529.webp",
     "static/media/New_Maruti_Grand_Vitara_car_price_in_Hyderabad.webp": "/static/media/New_Maruti_Grand_Vitara_car_price_in_Hyderabad.c32681adce02e8ce6c16.webp",
     "static/media/Maruti_Driving_School_Kushaiguda.webp": "/static/media/Maruti_Driving_School_Kushaiguda.f81297d74846f210f3a7.webp",
-    "static/media/WM_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.webp": "/static/media/WM_Maruti_Suzuki_Service_Nexa_Service_Holi_Ugadi_Service_offers_Saboo_RKS_Motor.961c8018c6c49c715843.webp",
+    "static/media/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp": "/static/media/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).3dd901dae419349711f7.webp",
     "static/media/logo_color.webp": "/static/media/logo_color.520acbef5a076fecc6dd.webp",
     "static/media/privacy-policy-banner-nexa.webp": "/static/media/privacy-policy-banner-nexa.353a5d966ebfb6f92ad2.webp",
     "static/media/Saboo_Nexa_Insurance_Hyderabad.webp": "/static/media/Saboo_Nexa_Insurance_Hyderabad.dfa2c8881b5562d2e0ba.webp",
@@ -38,12 +38,12 @@
     "static/media/e vitara logo-01 webp.webp": "/static/media/e vitara logo-01 webp.0fc494274f9281f49925.webp",
     "static/media/login_key.svg": "/static/media/login_key.db3713bbbfce8f3df5de9d7feb091058.svg",
     "main.d7b17e36.css.map": "/static/css/main.d7b17e36.css.map",
-    "main.40dd1b17.js.map": "/static/js/main.40dd1b17.js.map",
+    "main.57228d34.js.map": "/static/js/main.57228d34.js.map",
     "703.31b2cca3.chunk.js.map": "/static/js/703.31b2cca3.chunk.js.map",
     "102.7ab9673a.chunk.js.map": "/static/js/102.7ab9673a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7b17e36.css",
-    "static/js/main.40dd1b17.js"
+    "static/js/main.57228d34.js"
   ]
 }

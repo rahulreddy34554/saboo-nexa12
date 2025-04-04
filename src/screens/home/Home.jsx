@@ -440,12 +440,69 @@ const SerFinInsur = () => {
               >
                 
               </div> */}
-              <img
+               <section className="hidden sm:block">
+          <Swiper
+            style={{
+              "--swiper-navigation-color": "#fff",
+              "--swiper-pagination-color": "#fff",
+            }}
+            loop={true}
+            speed={1000}
+            autoplay={{
+              delay: 4000,
+              disableOnInteraction: false,
+            }}
+            pagination={{
+              clickable: true,
+            }}
+            spaceBetween={10}
+            slidesPerView={1}
+            centeredSlides={true}
+            modules={[Autoplay, Pagination]}
+            className="select-none mySwiper2 h-28"
+          >
+            <SwiperSlide className="rounded-xl">
+              <div className="hidden sm:block">
+                <img
+                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
+                  alt="Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa"
+                  className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
+                />
+              </div>
+              {/* <div className="sm:hidden">
+                <img
+                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
+                  alt="Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa_2024"
+                  className="w-full rounded-2xl sm:hidden"
+                />
+              </div> */}
+            </SwiperSlide>
+           
+            <SwiperSlide className="rounded-xl">
+              <div className="hidden sm:block">
+                <img
+                  src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
+                  // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
+                  alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Offers"
+                  className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
+                />
+              </div>
+              {/* <div className="sm:hidden">
+                <img
+                  src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
+                  alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Mobile_Offers"
+                  className="w-full rounded-2xl sm:hidden"
+                />
+              </div> */}
+            </SwiperSlide>
+          </Swiper>
+        </section>
+              {/* <img
                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
                 alt=' Summer_Maruti_Suzuki_Service_Happy_Holi_Service_Saboo_RKS_Motor_March_Offers'
                 className={` w-full rounded shadow-lg select-none lg:rounded-xl shadow-gray-500   hidden sm:block duration-500 lg:hover:scale-95`}
-              />
+              /> */}
               <img
                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad_Mobile.webp')}
                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
@@ -1022,7 +1079,7 @@ const Offer = () => {
   return (
     <div className='container px-2 pb-5 mx-auto xl:max-w-7xl '>
       <Link to='/nexa-car-offers-in-hyderabad'>
-        <div className='hidden sm:block'>
+        {/* <div className='hidden sm:block'>
           <img
             src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
             alt='components/Website_Maruti_Suzuki_Nexa_Year_End_Offers_2024_biggest_offers_are_live_at_Saboo_RKS_Motor (1).webp'
@@ -1039,8 +1096,8 @@ const Offer = () => {
             className='w-full rounded-2xl sm:hidden'
             loading='lazy'
           />
-        </div>
-        {/* <section className="">
+        </div> */}
+        <section className="">
           <Swiper
             style={{
               "--swiper-navigation-color": "#fff",
@@ -1064,14 +1121,14 @@ const Offer = () => {
             <SwiperSlide className="rounded-xl">
               <div className="hidden sm:block">
                 <img
-                  src={require("../../assets/HomePageImages/Website_Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa.webp")}
+                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
                   alt="Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa"
                   className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
                 />
               </div>
               <div className="sm:hidden">
                 <img
-                  src={require("../../assets/HomePageImages/Website_Mobile_Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa.webp")}
+                   src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
                   alt="Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa_2024"
                   className="w-full rounded-2xl sm:hidden"
                 />
@@ -1081,7 +1138,7 @@ const Offer = () => {
             <SwiperSlide className="rounded-xl">
               <div className="hidden sm:block">
                 <img
-                  src={require("../../assets/HomePageImages/Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor.webp")}
+                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Offers"
                   className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
@@ -1089,14 +1146,14 @@ const Offer = () => {
               </div>
               <div className="sm:hidden">
                 <img
-                  src={require("../../assets/HomePageImages/Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Mobile.webp")}
+                  src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Mobile_Offers"
                   className="w-full rounded-2xl sm:hidden"
                 />
               </div>
             </SwiperSlide>
           </Swiper>
-        </section> */}
+        </section>
 
         {/* <img
           src={require("../../assets/HomePageImages/Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor.webp")}
