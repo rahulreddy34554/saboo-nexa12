@@ -464,8 +464,8 @@ const SerFinInsur = () => {
             <SwiperSlide className="rounded-xl">
               <div className="hidden sm:block">
                 <img
-                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
-                  alt="Maruti_Suzuki_Nexa_July_Monsoon_Offers_Saboo_RKS_Nexa"
+                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Service_At_Kompally_Suchitra_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Serviceat.webp')}
+                  alt="Website_Maruti_Suzuki_Nexa_Service_At_Kompally_Suchitra_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Serviceat.webp"
                   className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
                 />
               </div>
@@ -481,8 +481,8 @@ const SerFinInsur = () => {
             <SwiperSlide className="rounded-xl">
               <div className="hidden sm:block">
                 <img
-                  src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
-                  // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
+                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad.webp')}
+                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Offers"
                   className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
                 />
@@ -503,12 +503,12 @@ const SerFinInsur = () => {
                 alt=' Summer_Maruti_Suzuki_Service_Happy_Holi_Service_Saboo_RKS_Motor_March_Offers'
                 className={` w-full rounded shadow-lg select-none lg:rounded-xl shadow-gray-500   hidden sm:block duration-500 lg:hover:scale-95`}
               /> */}
-              <img
+              {/* <img
                 src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad_Mobile.webp')}
                 // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
                 alt=' Summer_Maruti_Suzuki_Service_Happy_Holi_Service_Saboo_RKS_Motor_March_Offers'
                 className={` w-full rounded shadow-lg select-none lg:rounded-xl shadow-gray-500    sm:hidden `}
-              />
+              /> */}
 
               {/* <img
                 src={require("../../assets/HomePageImages/Website_Maruti_Suzuki_Nexa_Service_October_Dussehra_Navratri_Diwali_Offers_Saboo_RKS_Motor.webp")}
@@ -525,6 +525,7 @@ const SerFinInsur = () => {
             </Link>
           </div>
         </div>
+    
 
         <div className='hidden grid-cols-2 gap-2 md:grid '>
           <div data-aos='zoom-in' data-aos-delay='0' data-aos-duration='500'>
@@ -547,6 +548,99 @@ const SerFinInsur = () => {
             </Link>
           </div>
         </div>
+      </div>
+      <div className='container px-2 mx-auto mb-2 overflow-hidden md:hidden lg:mx-0 rounded-xl lg:rounded-3xl'>
+        <Swiper
+          slidesPerView={1}
+          spaceBetween={1}
+          navigation={false}
+          autoplay={{
+            delay: 2500,
+            disableOnInteraction: false,
+          }}
+          pagination={{
+            clickable: true,
+          }}
+          breakpoints={{
+            '@0.00': {
+              slidesPerView: 1,
+              spaceBetween: 5,
+            },
+            '@0.75': {
+              slidesPerView: 2,
+              spaceBetween: 5,
+            },
+            '@1.00': {
+              slidesPerView: 2,
+              spaceBetween: 10,
+            },
+            '@1.50': {
+              slidesPerView: 2,
+              spaceBetween: 5,
+            },
+          }}
+          modules={[Autoplay, Navigation, Pagination]}
+          className='mySwiper'
+        >
+          {/* <SwiperSlide>
+            <figure className="relative cursor-pointer">
+              <Link to="/book-online-maruti-nexa-car-service">
+                <img
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/banners/Nexa+Service+mobile+Hafeezpet.webp"
+                  alt="Sevice Hafeezpet"
+                  className="rounded-xl"
+                />
+              </Link>
+              <figcaption className="absolute px-4 -mt-16 text-lg text-white">
+                <div className="text-xl">
+                  <p>SERVICE</p>
+                </div>
+                {/* <div className='text-xs'>
+                <p>Rules with revolutionary technology</p>
+              </div> 
+              </figcaption>
+            </figure>
+          </SwiperSlide> */}
+          <SwiperSlide>
+            <figure className='relative cursor-pointer'>
+              <Link to='/book-online-maruti-nexa-car-service'>
+                <img
+                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Service_At_Kompally_Suchitra_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Serviceat.webp')}
+                  alt='Service'
+                  className='rounded-xl'
+                />
+              </Link>
+              <figcaption className='absolute px-4 -mt-16 text-lg text-white'>
+                {/* <div className='text-xl'>
+                  <p>INSURANCE</p>
+                </div> */}
+                {/* <div className='text-xs'>
+                <p>Rules with a firm grip</p>
+              </div> */}
+              </figcaption>
+            </figure>
+          </SwiperSlide>
+          <SwiperSlide>
+            <figure className='relative cursor-pointer'>
+              <Link to='/book-online-maruti-nexa-car-service'>
+                <img
+                   src={require('../../assets/HomePageImages/Saboo_Nexa_Service_Center_In_Hyderabad_Mobile.webp')}
+                  alt='service'
+                  className='rounded-xl'
+                />
+              </Link>
+              <figcaption className='absolute px-4 -mt-16 text-lg text-white'>
+                {/* <div className='text-xl md-20'>
+                  <p>FINANCE</p>
+                </div> */}
+                {/* <div className='text-xs'>
+                <p>Rules with utmost comfort</p>
+              </div> */}
+              </figcaption>
+            </figure>
+          </SwiperSlide>
+       
+        </Swiper>
       </div>
       <div className='container px-2 mx-auto mb-2 overflow-hidden md:hidden lg:mx-0 rounded-xl lg:rounded-3xl'>
         <Swiper
@@ -684,8 +778,6 @@ const SerFinInsur = () => {
             <Link to='/maruti-suzuki-driving-school'>
               <img
               src={require("../../assets/others/Maruti_Driving_School_Kushaiguda.webp")}
-                // src={require("../../assets/others/Website_Nexa_Maruti_Suzuki_Driving_School_October_Dussehra_Diwali_Offers_Saboo_RKS_Motor_Learn_Driving_Driving_School.webp")}
-              //  src={require('../home/Website_Mobile_1Maruti_Suzuki_Driving_School_January_New_Year_2025_offers_Saboo_RKS_Motor.webp')}
                 className={`w-full  overflow-hidden duration-500 hover:shadow-lg rounded-xl shadow-black hover:scale-95 border border-blue-800 `}
                 alt='Website Maruti Suzuki Driving School October Dussehra Diwali Offers Saboo RKS Motor Learn Driving Driving School'
               />

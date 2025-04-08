@@ -388,15 +388,15 @@ export const products = [
 export const offer_products = [
   {
     name: "Grand Vitara",
-    price: "1,13,100",
-    desc: "+ EW + 20,000 Upgrade bonus",
+    price: "1,06,100",
+    desc: "+ Extended-Warranty",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/GV-logo-204x37+webp.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/thumbnails/gt-thumbnail-cng.webp",
     explore: "/grand-vitara-on-road-price-in-hyderabad",
   },
   {
     name: "Ignis",
-    price: " 58,100",
+    price: " 55,100",
     // desc: "",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/logos/Maruti-Suzuki-Ignis-logo.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Banner/Product-thumbnail/Saboo-Nexa-product-Ignis.webp",
@@ -404,7 +404,7 @@ export const offer_products = [
   },
   {
     name: "Jimny",
-    price: " 1,00,000",
+    price: " 1,03,000",
     // price: "₹ coming soon",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/jimny/120x30+black.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/jimny.webp",
@@ -414,7 +414,7 @@ export const offer_products = [
 
   {
     name: "Baleno",
-    price: "57,100",
+    price: "45,100",
    // desc: "Regal Kit worth Rs.60,199",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/newage_baleno_logo.png",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/cng/baleno-cng-thubnail.webp",
@@ -423,29 +423,29 @@ export const offer_products = [
 
   {
     name: "Ciaz",
-    price: "45,000",
+    price: "48,000",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/logos/Saboo-Nexa-Ciaz-logo.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Banner/Product-thumbnail/Saboo-Nexa-product-ciaz.webp",
     explore: "/nexa-ciaz-on-road-price-in-hyderabad",
   },
   {
     name: "XL6",
-    price: "20,000",
+    price: "23,000",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/logos/Saboo-Nexa-Logo-XL6.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/cng/xl6-cng-thumbnail.webp",
     explore: "/nexa-xl6-on-road-price-in-hyderabad",
   },
   {
     name: "Fronx",
-    price: "45,000",
-   desc: "Free Velocity Kit (Worth 43K)",
+    price: "86,000",
+   //desc: "Free Velocity Kit (Worth 43K)",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/Flash_header_Menu_logo.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/fronx-cng-thumbnail.webp",
     explore: "/maruti-fronx-price-in-hyderabad",
   },
    {
      name: "Invicto ",
-    price: "1,25,000",
+    price: "1,28,000",
    //  desc: "Special finance offer worth",
      logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/invicto/D23+logo+without+outline+Black_125x35.webp",
      img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/invicto/invicto-main-thubmnail-no-bg.webp",
