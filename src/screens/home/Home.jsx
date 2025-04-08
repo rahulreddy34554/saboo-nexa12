@@ -1170,7 +1170,7 @@ const WhyToChooseUs = () => {
 const Offer = () => {
   return (
     <div className='container px-2 pb-5 mx-auto xl:max-w-7xl '>
-      <Link to='/nexa-car-offers-in-hyderabad'>
+      
         {/* <div className='hidden sm:block'>
           <img
             src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
@@ -1211,6 +1211,7 @@ const Offer = () => {
             className="select-none mySwiper2 h-28"
           >
             <SwiperSlide className="rounded-xl">
+            <Link to='/nexa-car-offers-in-hyderabad'>
               <div className="hidden sm:block">
                 <img
                   src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
@@ -1225,9 +1226,11 @@ const Offer = () => {
                   className="w-full rounded-2xl sm:hidden"
                 />
               </div>
+              </Link>
             </SwiperSlide>
            
             <SwiperSlide className="rounded-xl">
+                <Link to='/book-online-maruti-nexa-car-service'>
               <div className="hidden sm:block">
                 <img
                   src={require("../../assets/others/Website_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp")}
@@ -1243,7 +1246,9 @@ const Offer = () => {
                   className="w-full rounded-2xl sm:hidden"
                 />
               </div>
+              </Link>
             </SwiperSlide>
+            
           </Swiper>
         </section>
 
@@ -1258,7 +1263,7 @@ const Offer = () => {
           alt="Maruti_Suzuki_Nexa_Monsoon_June_July_Saboo_RKS_Motor_July_Offers"
           className="w-full h-full sm:hidden "
         /> */}
-      </Link>
+      
     </div>
   );
 };

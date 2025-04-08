@@ -30,8 +30,10 @@ import { products } from "../../constants";
 
 const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 const videoSource = isSafari
-  ? "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_video/Nexa+Website+Safari/header_video/Fronx_safari.mov"
-  : "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/video/fronx_banner.webm";
+  ? "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/FRONX+banner+Video19-09-24.mp4"
+  //"https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_video/Nexa+Website+Safari/header_video/Fronx_safari.mov"
+  :// "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/FRONX+banner+Video19-09-24.mp4"
+  "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/fronx/video/fronx_banner.webm";
 const Fronx = () => {
   useEffect(() => {
     // AOS.init();
