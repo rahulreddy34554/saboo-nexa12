@@ -605,7 +605,7 @@ const SerFinInsur = () => {
             <figure className='relative cursor-pointer'>
               <Link to='/book-online-maruti-nexa-car-service'>
                 <img
-                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Service_At_Kompally_Suchitra_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Serviceat.webp')}
+                  src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Service_At_Kompally_Suchitra_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Serviceat.webp')}
                   alt='Service'
                   className='rounded-xl'
                 />
@@ -1230,7 +1230,7 @@ const Offer = () => {
             <SwiperSlide className="rounded-xl">
               <div className="hidden sm:block">
                 <img
-                  src={require('../../assets/others/Website_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
+                  src={require("../../assets/others/Website_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp")}
                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/Nexa+Service+Hafeezpet.webp"
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Offers"
                   className={`hidden w-full sm:block rounded-xl border-b border-gray-300 border-x`}
@@ -1238,7 +1238,7 @@ const Offer = () => {
               </div>
               <div className="sm:hidden">
                 <img
-                  src={require('../../assets/others/WM_Maruti_Suzuki_Nexa_Summer_Offers_April_offers_are_live_at_Saboo_RKS_Motor.webp')}
+                   src={require("../../assets/others/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp")}
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Mobile_Offers"
                   className="w-full rounded-2xl sm:hidden"
                 />
