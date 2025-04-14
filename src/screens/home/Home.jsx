@@ -1228,7 +1228,7 @@ const Offer = () => {
               </div>
               </Link>
             </SwiperSlide>
-           
+          
             <SwiperSlide className="rounded-xl">
                 <Link to='/book-online-maruti-nexa-car-service'>
               <div className="hidden sm:block">
@@ -1241,7 +1241,7 @@ const Offer = () => {
               </div>
               <div className="sm:hidden">
                 <img
-                   src={require("../../assets/others/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp")}
+                src={require("../../assets/others/WM_Maruti_Suzuki_Nexa_Service_Beat_the_Heat_with_Saboo_RKS_Motor_service_Summer_Service (1).webp")}
                   alt="Maruti_Suzuki_Nexa_Awesome__April_Offers_Saboo_RKS_Motor_Mobile_Offers"
                   className="w-full rounded-2xl sm:hidden"
                 />

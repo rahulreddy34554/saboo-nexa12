@@ -532,10 +532,11 @@ function GrandVitara() {
       {/* <Features /> */}
 
       {/* <ImageOptions /> */}
-
+      <ImageOptions/>
       <Safety />
       <CarComp details={products[4]} />
       <CarEnq2 title="BOOK YOUR GRAND VITARA" carName="GRAND VITARA" />
+      
     </>
   );
 }
@@ -1044,6 +1045,7 @@ const DesignPhilosophy = () => {
           />
         </video>
       </div>
+      
     </div>
   );
 };
@@ -1334,84 +1336,84 @@ function Safety() {
   );
 }
 
-// const ImageOptions = () => {
-//   return (
-//     <div className='container px-5 mx-auto md:px-0'>
-//       <div className='grid p-8 shadow-lg sm:grid-cols-2 '>
-//         <div>
-//           <img
-//             src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/exterior/vitara-exterior-1.webp'
-//             alt='saboo-nexa-ignis-exterior-front-grill'
-//             className='w-full'
-//           />
-//         </div>
-//         <div className='p-8 mx-auto my-auto space-y-3'>
-//           <p className='text-3xl font-bold '>Sporty Rear</p>
-//           <p className='w-20 h-1 bg-black rounded-full '></p>
-//           <p>
-//             The New Ignis is equipped with a Striking Rear Spoiler and Roof
-//             Rails, which enhances the Sporty Look.
-//           </p>
-//         </div>
-//       </div>
 
-//       <div className='grid p-8 shadow-lg sm:grid-cols-2'>
-//         <div className='p-5 mx-auto my-auto space-y-3'>
-//           <p className='text-3xl font-bold'>Imposing Chrome Grille</p>
-//           <p className='w-20 h-1 bg-black rounded-full '></p>
-//           <p>
-//             Taking the tough look up a notch, the New Ignis is equipped with an
-//             Imposing Chrome Grille which leaves a lasting impression.
-//           </p>
-//         </div>
-//         <div>
-//           <img
-//             src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Ignis/exterior/saboo-nexa-ignis-exterior-back.webp'
-//             alt='saboo-nexa-ignis-exterior-back'
-//             className='w-full'
-//           />
-//         </div>
-//       </div>
 
-//       <div className='grid p-8 shadow-lg sm:grid-cols-2'>
-//         <div>
-//           <img
-//             src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Ignis/exterior/saboo-nexa-ignis-exterior-side-shot.webp'
-//             alt='saboo-nexa-ignis-exterior-side-shot'
-//             className='w-full'
-//           />
-//         </div>
-//         <div className='p-8 mx-auto my-auto space-y-3'>
-//           <p className='text-3xl font-bold'>High SUV-like Stance</p>
-//           <p className='w-20 h-1 bg-black rounded-full '></p>
-//           <p>
-//             The New Ignis has a high SUV-like Stance which makes it easier to
-//             get in and off, coupled with a higher seating that allows a great
-//             road visibility.
-//           </p>
-//         </div>
-//       </div>
+const ImageOptions = () => {
+  return (
+    <div className='container px-5 mx-auto md:px-0'>
+      <div className='grid p-8 shadow-lg sm:grid-cols-2 '>
+        <div>
+          <img
+            src='https://www.nexaexperience.com/adobe/assets/urn:aaid:aem:6bfb5355-eff0-4b85-8440-414d0355dced/as/GV_Wheel_Desktop_Image.png?width=750&id=1'
+            alt='saboo-nexa-ignis-exterior-front-grill'
+            className='w-full'
+          />
+        </div>
+        <div className='p-8 mx-auto my-auto space-y-3'>
+          <p className='text-3xl font-bold '>New Striking 17-inch Machined-Cut Alloy Wheels</p>
+          <p className='w-20 h-1 bg-black rounded-full '></p>
+          <p>
+          lead the way for the Grand Vitara’s bold design — commanding, dynamic, and built to dominate
+          </p>
+        </div>
+      </div>
 
-//       <div className='grid p-8 shadow-lg sm:grid-cols-2'>
-//         <div className='mx-auto my-auto space-y-3'>
-//           <p className='text-3xl font-bold'>Toughened Exterior</p>
-//           <p className='w-20 h-1 bg-black rounded-full '></p>
-//           <p>
-//             Adding to the toughness, the New Ignis comes with stunning 15”
-//             All-Black Alloy Wheels, All-Around Cladding and Sturdy New Front &
-//             Rear Skid Plates.
-//           </p>
-//         </div>
-//         <div>
-//           <img
-//             src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Ignis/exterior/saboo-nexa-ignis-exterior-Toughened.webp'
-//             alt='saboo-nexa-ignis-exterior-Toughened'
-//             className='w-full'
-//           />
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
+      <div className='grid p-8 shadow-lg sm:grid-cols-2'>
+        <div className='p-5 mx-auto my-auto space-y-3'>
+          <p className='text-3xl font-bold'>Premium Crafted Chrome Grille</p>
+          <p className='w-20 h-1 bg-black rounded-full '></p>
+          <p>
+          Gives a strong and sophisticated presence
+          </p>
+        </div>
+        <div>
+          <img
+            src='https://www.nexaexperience.com/adobe/assets/urn:aaid:aem:35e03d4a-826c-4ecb-ad3b-bf3a380809a5/as/GV_Grille_Desktop_Image.png?width=750&id=1'
+            alt='saboo-nexa-ignis-exterior-back'
+            className='w-full'
+          />
+        </div>
+      </div>
+
+      <div className='grid p-8 shadow-lg sm:grid-cols-2'>
+        <div>
+          <img
+            src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Ignis/exterior/saboo-nexa-ignis-exterior-side-shot.webp'
+            alt='saboo-nexa-ignis-exterior-side-shot'
+            className='w-full'
+          />
+        </div>
+        <div className='p-8 mx-auto my-auto space-y-3'>
+          <p className='text-3xl font-bold'>High SUV-like Stance</p>
+          <p className='w-20 h-1 bg-black rounded-full '></p>
+          <p>
+            The New Ignis has a high SUV-like Stance which makes it easier to
+            get in and off, coupled with a higher seating that allows a great
+            road visibility.
+          </p>
+        </div>
+      </div>
+
+      <div className='grid p-8 shadow-lg sm:grid-cols-2'>
+        <div className='mx-auto my-auto space-y-3'>
+          <p className='text-3xl font-bold'>Toughened Exterior</p>
+          <p className='w-20 h-1 bg-black rounded-full '></p>
+          <p>
+            Adding to the toughness, the New Ignis comes with stunning 15”
+            All-Black Alloy Wheels, All-Around Cladding and Sturdy New Front &
+            Rear Skid Plates.
+          </p>
+        </div>
+        <div>
+          <img
+            src='https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/saboonexa/Ignis/exterior/saboo-nexa-ignis-exterior-Toughened.webp'
+            alt='saboo-nexa-ignis-exterior-Toughened'
+            className='w-full'
+          />
+        </div>
+      </div>
+    </div>
+  );
+};
 
 export default GrandVitara;
