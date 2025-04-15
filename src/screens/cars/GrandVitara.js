@@ -532,7 +532,7 @@ function GrandVitara() {
       {/* <Features /> */}
 
       {/* <ImageOptions /> */}
-      <ImageOptions/>
+      {/* <ImageOptions/> */}
       <Safety />
       <CarComp details={products[4]} />
       <CarEnq2 title="BOOK YOUR GRAND VITARA" carName="GRAND VITARA" />
