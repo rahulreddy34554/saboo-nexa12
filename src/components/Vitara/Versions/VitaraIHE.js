@@ -92,10 +92,14 @@ const VitaraIHE = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/Panoramic+Sunroof+webp.webp"
+            src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/exterior/GV_Sunroof_Desktop_Image.webp"
+           //  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/R17+Dual+Tone+Precision+Cut+Alloy+Wheels+webp+(1).webp"
               alt=""
+             
             />
+            
           </SwiperSlide>
+         
           <SwiperSlide>
             <img
               src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/Ventilated+Seats+webp.webp"
@@ -128,13 +132,23 @@ const VitaraIHE = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-           // src ="https://www.nexaexperience.com/adobe/assets/urn:aaid:aem:6bfb5355-eff0-4b85-8440-414d0355dced/as/GV_Wheel_Desktop_Image.png?width=750&id=1"
-             src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/R17+Dual+Tone+Precision+Cut+Alloy+Wheels+webp+(1).webp"
+            src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/exterior/GV_Grille_Desktop_Image.webp"
+           //  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/R17+Dual+Tone+Precision+Cut+Alloy+Wheels+webp+(1).webp"
+              alt=""
+             
+            />
+            
+          </SwiperSlide> <SwiperSlide>
+            <img
+            src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/exterior/GV_Wheel_Desktop_Image.webp"
+           //  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/intelligent-hybrid-electric/R17+Dual+Tone+Precision+Cut+Alloy+Wheels+webp+(1).webp"
               alt=""
              
             />
             
           </SwiperSlide>
+        
+       
         </Swiper>
         <IntelligentElectric />
         <CarEnq2 title="BOOK YOUR GRAND VITARA" carName="Grand Vitara" />

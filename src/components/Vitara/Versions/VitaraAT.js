@@ -98,7 +98,8 @@ const VitaraAT = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/automatic-transmission/GV_811x629-14+webp.webp"
+            src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/exterior/GV_Wheel_Desktop_Image.webp"
+              //src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/variants/automatic-transmission/GV_811x629-14+webp.webp"
               alt=""
             />
           </SwiperSlide>

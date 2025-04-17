@@ -217,70 +217,81 @@ function GrandVitara() {
                 <div className="mt-24 ml-auto mr-1">
                   {/* CELESTIAL BLUE */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/Celestial_blue.webp"
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/NEXA-BLUE.png"
+                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/Celestial_blue.webp"
+                
                     alt="CELESTIAL BLUE"
                     className={tabsColors === 1 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* ARCTIC WHITE */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/arctic_white.webp"
+                  //  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/arctic_white.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Arctic-white.png"
                     alt="ARCTIC WHITE"
                     className={tabsColors === 2 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* Midnight Black */}
                   <img
-                    src="https://az-ci-cdn-prd-nexa-01.azureedge.net/-/media/feature/nexawebsitecarbrand/grand-vitara/brand-color/688x360/midnight_black.webp"
-                    alt="                    Midnight Black                    "
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/midnight-black.png"
+                   // src="https://az-ci-cdn-prd-nexa-01.azureedge.net/-/media/feature/nexawebsitecarbrand/grand-vitara/brand-color/688x360/midnight_black.webp"
+                    alt="                   Midnight Black                    "
                     className={tabsColors === 3 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* CHESTNUT BROWN */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/Chestnut_Brown.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/chestnut-brown.png"
+                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/Chestnut_Brown.webp"
                     alt="CHESTNUT BROWN"
                     className={tabsColors === 4 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* GRANDEUR GREY */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/grandeur_grey.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Grandeur-grey.png"
+                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/grandeur_grey.webp"
                     alt="GRANDEUR GREY"
                     className={tabsColors === 5 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* OPPULENT RED */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/oppulent_red.webp"
+                    //src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/oppulent_red.webp"
+                    src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Opulent-red.png"
                     alt="OPPULENT RED"
                     className={tabsColors === 6 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* OPPULENT_RED MIDNIGHT BLACK */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/oppulent_red_midnight_black.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Opulent-red-black.png"
+                    //src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/oppulent_red_midnight_black.webp"
                     alt="OPPULENT_RED MIDNIGHT BLACK"
                     className={tabsColors === 7 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* SPLENDID SILVER */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/splendid_silver.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Splended-silver.png"
+                   // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/splendid_silver.webp"
                     alt="SPLENDID SILVER"
                     className={tabsColors === 8 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* SPLENDID SILVER MIDNIGHT BLACK */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/splendid_silver_midnight_black.webp"
+                  src ="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Splended-silver-black.png"
+                    //src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/splendid_silver_midnight_black.webp"
                     alt="SPLENDID SILVER MIDNIGHT BLACK"
                     className={tabsColors === 9 ? "flex mx-auto" : "hidden"}
                   />
 
                   {/* Arctic White with Midnight Black */}
                   <img
-                    src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/arctic_white_midnight_black.webp"
+                  src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/Arctic-white-black.png"
+                    //src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/arctic_white_midnight_black.webp"
                     alt="Arctic White with Midnight Black "
                     className={tabsColors === 10 ? "flex mx-auto" : "hidden"}
                   />
