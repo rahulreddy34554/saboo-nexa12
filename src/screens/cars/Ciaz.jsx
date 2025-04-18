@@ -173,7 +173,7 @@ function Ciaz() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("9,40,000");
+  const [price, setPrice] = useState("9,41,500");
   return (
     <div className=" bg-opacity-25 bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10">
@@ -189,15 +189,15 @@ const Variant = () => {
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none "
               aria-labelledby="Select Car Variant"
             >
-              <option value="9,40,000">1.5 Smart Hybrid MT Sigma</option>
-              <option value="10,00,000">1.5 Smart Hybrid MT Delta</option>
-              <option value="10,40,000">1.5 Smart Hybrid MT Zeta</option>
-              <option value="11,19,000">1.5 Smart Hybrid MT Alpha </option>
-              <option value="11,35,000">1.5 Smart Hybrid MT Alpha (DT)</option>
-              <option value="11,10,000">1.5 Smart Hybrid AT Delta </option>
-              <option value="11,50,000">1.5 Smart Hybrid AT Zeta </option>
-              <option value="12,29,000">1.5 Smart Hybrid AT Alpha </option>
-              <option value="12,45,000">1.5 Smart Hybrid AT Alpha (DT) </option>
+              <option value="9,41,500">1.5 Smart Hybrid MT Sigma</option>
+              <option value="9,99,500">1.5 Smart Hybrid MT Delta</option>
+              <option value="10,41,500">1.5 Smart Hybrid MT Zeta</option>
+              <option value="11,21,000">1.5 Smart Hybrid MT Alpha </option>
+              <option value="11,37,000">1.5 Smart Hybrid MT Alpha (DT)</option>
+              <option value="11,11,000">1.5 Smart Hybrid AT Delta </option>
+              <option value="11,51,500">1.5 Smart Hybrid AT Zeta </option>
+              <option value="12,31,000">1.5 Smart Hybrid AT Alpha </option>
+              <option value="12,47,000">1.5 Smart Hybrid AT Alpha (DT) </option>
             </select>
           </div>
           <div className="text-center text-white">

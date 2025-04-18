@@ -388,7 +388,7 @@ export const products = [
 export const offer_products = [
   {
     name: "Grand Vitara",
-    price: "1,06,100",
+    price: "1,28,000",
     desc: "+ Extended-Warranty",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/GV-logo-204x37+webp.webp",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/thumbnails/gt-thumbnail-cng.webp",
@@ -414,7 +414,7 @@ export const offer_products = [
 
   {
     name: "Baleno",
-    price: "45,100",
+    price: "55,100",
    // desc: "Regal Kit worth Rs.60,199",
     logo: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/newage_baleno_logo.png",
     img: "https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/cng/baleno-cng-thubnail.webp",

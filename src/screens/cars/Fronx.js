@@ -579,7 +579,7 @@ function FronxInteriorAndOther() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("7,51,500");
+  const [price, setPrice] = useState("7,54,500");
   return (
     <div className=" bg-opacity-25 text-white bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10">
@@ -595,44 +595,44 @@ const Variant = () => {
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white text-black rounded-md shadow-sm focus:outline-none "
               aria-labelledby="Select Car Variant"
             >
-              <option value="7,51,500">
+              <option value="7,54,500">
                 1.2L K-Series Dual Jet, Dual VVT Engine Sigma 5MT
               </option>
-              <option value="8,37,500">
+              <option value="8,40,500">
                 1.2L K-Series Dual Jet, Dual VVT Engine Delta 5MT
               </option>
-              <option value="8,82,500">
+              <option value="8,90,500">
                 1.2L K-Series Dual Jet, Dual VVT Engine Delta AGS
               </option>
-              <option value="8,77,500">
+              <option value="8,96,000">
                 1.2L K-Series Dual Jet, Dual VVT Engine Delta+ 5MT
               </option>
-              <option value="9,22,500">
+              <option value="9,46,000">
                 1.2L K-Series Dual Jet, Dual VVT Engine Delta+ AGS
               </option>
-              <option value="9,72,500">
+              <option value="9,75,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Delta+ 5MT{" "}
               </option>
-              <option value="10,55,500">
+              <option value="10,58,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Zeta 5MT{" "}
               </option>
-              <option value="11,95,500">
+              <option value="11,50,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Zeta 6AT{" "}
               </option>
               <option value="11,47,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Alpha 5MT{" "}
               </option>
-              <option value="12,87,500">
+              <option value="12,90,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Alpha 6AT
               </option>
-              <option value="11,63,500">
+              <option value="11,66,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Alpha MT (DT){" "}
               </option>
-              <option value="13,03,500">
+              <option value="13,06,500">
                 1.0L K-Series Turbo Boosterjet Smart Hybrid Alpha AT (DT){" "}
               </option>
-              <option value="8,46,500">CNG Sigma </option>
-              <option value="9,32,500">CNG Delta </option>
+              <option value="8,49,500">CNG Sigma </option>
+              <option value="9,35,500">CNG Delta </option>
             </select>
           </div>
           <div className="text-center ">

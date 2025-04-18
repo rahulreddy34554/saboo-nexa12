@@ -437,7 +437,7 @@ function Baleno() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("6,66,000");
+  const [price, setPrice] = useState("6,70,000");
   return (
     <div className=" bg-opacity-25  bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10 ">
@@ -453,15 +453,15 @@ const Variant = () => {
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none sm:text-sm"
               aria-labelledby="model"
             >
-              <option value="6,66,000">MT Sigma </option>
-              <option value="7,50,000">MT Delta</option>
-              <option value="8,43,000">MT Zeta</option>
-              <option value="9,38,000">MT Alpha </option>
-              <option value="8,40,000">CNG - MT Delta </option>
-              <option value="9,33,000">CNG - MT Zeta </option>
-              <option value="7,95,000">AGS Delta </option>
-              <option value="8,88,000">AGS Zeta </option>
-              <option value="9,83,000">AGS Alpha </option>
+              <option value="6,70,000">MT Sigma </option>
+              <option value="7,54,000">MT Delta</option>
+              <option value="8,47,000">MT Zeta</option>
+              <option value="9,42,000">MT Alpha </option>
+              <option value="8,44,000">CNG - MT Delta </option>
+              <option value="9,37,000">CNG - MT Zeta </option>
+              <option value="8,04,000">AGS Delta </option>
+              <option value="8,97,000">AGS Zeta </option>
+              <option value="9,92,000">AGS Alpha </option>
             </select>
           </div>
           <div className="text-center text-gray-200">

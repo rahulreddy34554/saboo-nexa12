@@ -386,7 +386,7 @@ function JimnyInteriorAndOther() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("12,74,000");
+  const [price, setPrice] = useState("12,75,500");
   return (
     <div className=" bg-opacity-25  bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10 ">
@@ -402,14 +402,14 @@ const Variant = () => {
               aria-labelledby="Select Car Variant"
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none  "
             >
-              <option value="12,74,000">1.5L ALL GRIP PRO Zeta 5MT</option>
-              <option value="13,69,000">1.5L ALL GRIP PRO Alpha 5MT</option>
-              <option value="13,85,000">
+              <option value="12,75,500">1.5L ALL GRIP PRO Zeta 5MT</option>
+              <option value="13,70,500">1.5L ALL GRIP PRO Alpha 5MT</option>
+              <option value="13,86,500">
                 1.5L ALL GRIP PRO Alpha 5MT (DT)
               </option>
-              <option value="13,84,000">1.5L ALL GRIP PRO Zeta 4AT</option>
-              <option value="14,79,000">1.5L ALL GRIP PRO Alpha 4AT</option>
-              <option value="14,95,000">
+              <option value="13,85,500">1.5L ALL GRIP PRO Zeta 4AT</option>
+              <option value="14,80,500">1.5L ALL GRIP PRO Alpha 4AT</option>
+              <option value="14,96,500">
                 1.5L ALL GRIP PRO Alpha 4AT (DT)
               </option>
             </select>

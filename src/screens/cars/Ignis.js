@@ -187,7 +187,7 @@ function Ignis() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("5,84,000");
+  const [price, setPrice] = useState("5,85,000");
   return (
     <div className=" bg-opacity-25  bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10 ">
@@ -203,17 +203,17 @@ const Variant = () => {
               aria-labelledby="Select Car Variant"
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none "
             >
-              <option value="5,84,000">MT Sigma</option>
-              <option value="6,38,000">MT Delta</option>
-              <option value="6,96,000">MT Zeta</option>
-              <option value="7,10,000">MT Zeta (DT)</option>
-              <option value="7,61,000">MT Alpha</option>
-              <option value="7,75,000">MT Alpha (DT)</option>
-              <option value="6,83,000">AGS Delta </option>
-              <option value="7,41,000">AGS Zeta </option>
-              <option value="7,55,000">AGS Zeta (DT)</option>
-              <option value="8,06,000">AGS Alpha </option>
-              <option value="8,20,000">AGS Alpha (DT)</option>
+              <option value="5,85,000">MT Sigma</option>
+              <option value="6,39,000">MT Delta</option>
+              <option value="6,97,000">MT Zeta</option>
+              <option value="7,11,100">MT Zeta (DT)</option>
+              <option value="7,62,000">MT Alpha</option>
+              <option value="7,76,000">MT Alpha (DT)</option>
+              <option value="6,89,000">AGS Delta </option>
+              <option value="7,47,000">AGS Zeta </option>
+              <option value="7,61,000">AGS Zeta (DT)</option>
+              <option value="8,12,000">AGS Alpha </option>
+              <option value="8,26,000">AGS Alpha (DT)</option>
             </select>
           </div>
           <div className="text-center text-gray-200">

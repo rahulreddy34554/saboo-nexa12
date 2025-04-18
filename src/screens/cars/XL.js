@@ -185,7 +185,7 @@ function XL() {
 }
 
 const Variant = () => {
-  const [price, setPrice] = useState("11,61,000");
+  const [price, setPrice] = useState("11,83,500");
   return (
     <div className=" bg-opacity-25 text-white bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10">
@@ -201,15 +201,15 @@ const Variant = () => {
               aria-labelledby="Select Car Variant"
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none  sm:text-sm text-black "
             >
-              <option value="11,61,000">1.5 Smart Hybrid MT Zeta</option>
-              <option value="12,61,000">1.5 Smart Hybrid MT Alpha</option>
-              <option value="13,21,000">1.5 Smart Hybrid MT Alpha+</option>
-              <option value="13,37,000">1.5 Smart Hybrid MT Alpha+ (DT)</option>
-              <option value="12,56,000">CNG - MT Zeta </option>
-              <option value="13,01,000">1.5 Smart Hybrid AT Zeta AT</option>
-              <option value="14,01,000">1.5 Smart Hybrid AT Alpha AT</option>
-              <option value="14,61,000">1.5 Smart Hybrid AT Alpha+ AT</option>
-              <option value="14,77,000">
+              <option value="11,83,500">1.5 Smart Hybrid MT Zeta</option>
+              <option value="12,83,500">1.5 Smart Hybrid MT Alpha</option>
+              <option value="13,43,500">1.5 Smart Hybrid MT Alpha+</option>
+              <option value="13,59,500">1.5 Smart Hybrid MT Alpha+ (DT)</option>
+              <option value="12,78,500">CNG - MT Zeta </option>
+              <option value="13,23,500">1.5 Smart Hybrid AT Zeta AT</option>
+              <option value="14,23,500">1.5 Smart Hybrid AT Alpha AT</option>
+              <option value="14,83,500">1.5 Smart Hybrid AT Alpha+ AT</option>
+              <option value="14,99,500">
                 1.5 Smart Hybrid AT Alpha+ AT (DT)
               </option>
             </select>

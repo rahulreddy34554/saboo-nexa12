@@ -2,6 +2,9 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 // import OnRoadPrice from "../../components/utils/OnRoadPrice";
+import View360 from "../../components/utils/View360";
+import { Tb360View, TbView360 } from "react-icons/tb";
+import {  GiReturnArrow} from "react-icons/gi";
 import {
   MdAirlineSeatReclineExtra,
   MdOutlineFileDownload,
@@ -21,6 +24,7 @@ import { CarEnq2 } from "../../components/Invicto/CarEnq2";
 import { products } from "../../constants";
 import { useRef } from "react";
 import { GiBeltBuckles, GiSpeedometer } from "react-icons/gi";
+
 
 // const width = window.innerWidth;
 
@@ -216,6 +220,7 @@ function GrandVitara() {
               <>
                 <div className="mt-24 ml-auto mr-1">
                   {/* CELESTIAL BLUE */}
+        
                   <img
                   src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/new-colors/NEXA-BLUE.png"
                    // src="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/color-icons/Celestial_blue.webp"
@@ -544,6 +549,9 @@ function GrandVitara() {
 
       {/* <ImageOptions /> */}
       {/* <ImageOptions/> */}
+      
+      
+      <GV360/>
       <Safety />
       <CarComp details={products[4]} />
       <CarEnq2 title="BOOK YOUR GRAND VITARA" carName="GRAND VITARA" />
@@ -1428,3 +1436,75 @@ const ImageOptions = () => {
 };
 
 export default GrandVitara;
+
+const GV360 = () => {
+  return (
+    <div
+      className="relative bg-center bg-no-repeat bg-cover"
+      style={{
+        backgroundImage: "url('https://your-image-url-here.jpg')",
+      }}
+    >
+      <div className="bg-black bg-opacity-50">
+        {/* Small screen title */}
+        <div className="text-center">
+          <div className="w-full pt-10 pb-2 text-3xl text-center uppercase sm:text-4xl md:text-5xl lg:hidden">
+            360
+            <sup>
+              <span className="text-lg">0</span>
+            </sup>{" "}
+            View
+          </div>
+          <div className="pb-4 lg:hidden">
+            Take A 360 Degree Look Around The Grand Vitara And Get To Know It Better
+          </div>
+        </div>
+
+        {/* View360 Component */}
+        <div className="relative w-full max-w-7xl mx-auto px-4 h-[200px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[670px]">
+          {/* Force View360 container height */}
+          <div className="flex items-center justify-center w-full h-full overflow-hidden">
+            <div className="w-full h-full">
+              <View360
+                path="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/360"
+                count={37}
+                format="png"
+              />
+            </div>
+          </div>
+{/* Left/Right Arrows */}
+<div className="absolute left-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
+  <GiReturnArrow className="text-3xl rotate-180 lg:text-5xl animate-pulse" />
+</div>
+
+          <div className="absolute right-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
+            <GiReturnArrow className="text-3xl lg:text-5xl animate-pulse" />
+          </div>
+
+          {/* 360 Icons and Text for Desktop */}
+          <div className="absolute flex-col items-center hidden w-full text-white lg:flex top-6">
+            <div className="text-4xl font-bold uppercase">
+              360
+              <sup>
+                <span className="text-lg">0</span>
+              </sup>{" "}
+              View
+            </div>
+            <div className="mt-2 text-lg">
+              Take A 360 Degree Look Around The Grand Vitara And Get To Know It Better
+            </div>
+          </div>
+
+          {/* Icon Left Top for md+ */}
+          <div className="absolute flex-col items-center hidden text-white md:flex top-6 left-6">
+            <TbView360 className="text-3xl lg:text-5xl animate-pulse" />
+            <Tb360View className="text-xl lg:text-4xl" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+
+

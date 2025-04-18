@@ -513,7 +513,7 @@ const InteriorSlider = () => {
 };
 
 const Variant = () => {
-  const [price, setPrice] = useState("25,21,000");
+  const [price, setPrice] = useState("25,51,000");
   return (
     <div className=" bg-opacity-25 text-white bg-[url('https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/thumbnails/slider_bg_image/5.webp')] bg-fixed  bg-black">
       <div className="container py-20 mx-auto bg-black bg-opacity-10">
@@ -529,12 +529,40 @@ const Variant = () => {
               aria-labelledby="Select Car Variant"
               className="block w-full max-w-[375px] py-2 px-3 border border-gray-300 bg-white text-black rounded-md shadow-sm focus:outline-none "
             >
-              <option value="25,21,000">ECVT ZETA+ (7S)</option>
-              <option value="25,30,500">ECVT ZETA+ (7S - White)</option>
-              <option value="25,26,000">ECVT ZETA+ (8S)</option>
-              <option value="25,35,500">ECVT ZETA+ (8S - White)</option>
-              <option value="28,92,000">ECVT ALPHA+ (7S)</option>
-              <option value="29,01,500">ECVT ALPHA+ (7S - White)</option>
+              <option value="20,68,000">ECVT ALPHA+ O(DT)</option>
+              <option value="20,52,500">ECVT ALPHA+ O</option>
+              <option value="20,08,000">ECVT ALPHA+ (DT)</option>
+              <option value="19,36,000">ECVT ZETA+ O(DT)</option>
+              <option value="19,22,000">ECVT ZETA+ O</option>
+              <option value="18,76,000">ECVT ZETA+ (DT) </option>
+              <option value="18,60,000">ECVT ZETA+ </option>
+              <option value="16,99,000">ECVT DELTA+</option>
+              <option value="19,80,000">ALL GRIP ALPHA - O(DT)</option>
+              <option value="19,64,000">ALL GRIP ALPHA -O</option>
+              <option value="19,20,000">ALL GRIP ALPHA (DT)</option>
+              <option value="19,04,000">ALL GRIP ALPHA</option>
+              <option value="18,30,000">SMART HYBRID AT ALPHA - O(DT)</option>
+              <option value="18,14,000">SMART HYBRID AT ALPHA - O</option>
+              <option value="17,70,000">SMART HYBRID AT ALPHA (DT)</option>
+              <option value="17,54,000">SMART HYBRID AT ALPHA</option>
+              <option value="16,83,000">SMART HYBRID AT ZETA - O (DT)</option>
+              <option value="16,67,000">SMART HYBRID AT ZETA - O</option>
+              <option value="16,23,000">SMART HYBRID AT ZETA (DT)</option>
+              <option value="16,07,000">SMART HYBRID AT ZETA</option>
+              <option value="13,93,000">SMART HYBRID AT DELTA</option>
+              <option value="16,90,000 ">SMART HYBRID MT ALPHA-O(DT)  </option>
+              <option value="16,74,000">SMART HYBRID MT ALPHA - O</option>
+              <option value="16,30,000">SMART HYBRID MT ALPHA (DT)</option>
+              <option value="16,14,000">SMART HYBRID MT ALPHA</option>
+              <option value="15,43,000">SMART HYBRID MT ZETA-O(DT)</option>
+              <option value="15,27,000">SMART HYBRID MT ZETA - O</option>
+              <option value="14,83,000">SMART HYBRID MT ZETA (DT)</option>
+              <option value="14,67,000">SMART HYBRID MT ZETA</option>
+              <option value="12,53,000">SMART HYBRID MT DELTA</option>
+              <option value="11,42,000">SMART HYBRID MT SIGMA</option>
+              <option value="15,21,000">CNG-MT ZETA</option>
+              <option value="13,25,000"> CNG-MT DELTA</option>
+             
             </select>
           </div>
           <div className="text-center ">
