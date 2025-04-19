@@ -670,16 +670,16 @@ const EV360 = () => {
             </div>
           </div>
 {/* Left/Right Arrows */}
-<div className="absolute left-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
+<div className="absolute left-0 flex flex-col items-center text-black -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
   <GiReturnArrow className="text-3xl rotate-180 lg:text-5xl animate-pulse" />
 </div>
 
-          <div className="absolute right-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
+          <div className="absolute right-0 flex flex-col items-center text-black -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
             <GiReturnArrow className="text-3xl lg:text-5xl animate-pulse" />
           </div>
 
           {/* 360 Icons and Text for Desktop */}
-          <div className="absolute flex-col items-center hidden w-full text-white lg:flex top-6">
+          <div className="absolute flex-col items-center hidden w-full text-black lg:flex top-6">
             <div className="text-4xl font-bold uppercase">
               360
               <sup>
@@ -687,13 +687,13 @@ const EV360 = () => {
               </sup>{" "}
               View
             </div>
-            <div className="mt-2 text-lg">
+            <div className="mt-2 text-lg text-black">
             Take a 360-degree look around the Evitara and get to know it better.
             </div>
           </div>
 
           {/* Icon Left Top for md+ */}
-          <div className="absolute flex-col items-center hidden text-white md:flex top-6 left-6">
+          <div className="absolute flex-col items-center hidden text-black md:flex top-6 left-6">
             <TbView360 className="text-3xl lg:text-5xl animate-pulse" />
             <Tb360View className="text-xl lg:text-4xl" />
           </div>

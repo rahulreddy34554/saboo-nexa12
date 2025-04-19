@@ -1447,7 +1447,7 @@ const GV360 = () => {
     >
       <div className="bg-black bg-opacity-50">
         {/* Small screen title */}
-        <div className="text-center">
+        <div className="text-center text-black">
           <div className="w-full pt-10 pb-2 text-3xl text-center uppercase sm:text-4xl md:text-5xl lg:hidden">
             360
             <sup>
@@ -1455,16 +1455,16 @@ const GV360 = () => {
             </sup>{" "}
             View
           </div>
-          <div className="pb-4 lg:hidden">
+          <div className="pb-4 text-black lg:hidden">
             Take A 360 Degree Look Around The Grand Vitara And Get To Know It Better
           </div>
         </div>
 
         {/* View360 Component */}
-        <div className="relative w-full max-w-7xl mx-auto px-4 h-[200px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[670px]">
+        <div className="relative w-full max-w-7xl mx-auto px-4 h-[200px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[670px] ">
           {/* Force View360 container height */}
           <div className="flex items-center justify-center w-full h-full overflow-hidden">
-            <div className="w-full h-full">
+            <div className="w-full h-full ">
               <View360
                 path="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/grand-vitara/360"
                 count={37}
@@ -1473,30 +1473,30 @@ const GV360 = () => {
             </div>
           </div>
 {/* Left/Right Arrows */}
-<div className="absolute left-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
+<div className="absolute left-0 flex flex-col items-center text-black -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
   <GiReturnArrow className="text-3xl rotate-180 lg:text-5xl animate-pulse" />
 </div>
 
-          <div className="absolute right-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
+          <div className="absolute right-0 flex flex-col items-center text-black -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
             <GiReturnArrow className="text-3xl lg:text-5xl animate-pulse" />
           </div>
 
           {/* 360 Icons and Text for Desktop */}
           <div className="absolute flex-col items-center hidden w-full text-white lg:flex top-6">
-            <div className="text-4xl font-bold uppercase">
+            <div className="text-4xl font-bold text-black uppercase">
               360
               <sup>
                 <span className="text-lg">0</span>
               </sup>{" "}
               View
             </div>
-            <div className="mt-2 text-lg">
+            <div className="mt-2 text-lg text-black">
               Take A 360 Degree Look Around The Grand Vitara And Get To Know It Better
             </div>
           </div>
 
           {/* Icon Left Top for md+ */}
-          <div className="absolute flex-col items-center hidden text-white md:flex top-6 left-6">
+          <div className="absolute flex-col items-center hidden text-black md:flex top-6 left-6">
             <TbView360 className="text-3xl lg:text-5xl animate-pulse" />
             <Tb360View className="text-xl lg:text-4xl" />
           </div>
