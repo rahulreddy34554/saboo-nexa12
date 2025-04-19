@@ -21,7 +21,9 @@ import { CarEnq2 } from '../../components/Invicto/CarEnq2';
 // import { LuMoveRight } from 'react-icons/lu';
 import { Navigation } from 'swiper';
 // import { Button } from "@mui/material";
-
+import View360 from "../../components/utils/View360";
+import { Tb360View, TbView360 } from "react-icons/tb";
+import {  GiReturnArrow} from "react-icons/gi";
 
 export const imagineList = [
   {
@@ -556,7 +558,7 @@ const EVitara = () => {
 
       {/*colors-section*/}
       <Customise />
-
+      <EV360/>
       <TabsListVitara
         bgColor={'black'}
         gradient={'bg-gradient-to-r from-black to-transparent'}
@@ -617,6 +619,7 @@ const EVitara = () => {
           </Swiper>
         </div>
       </div>
+    
       <CarEnq2 title='BOOK YOUR EVitara' carName='e-Vitara' />
       
 
@@ -630,3 +633,72 @@ const EVitara = () => {
 };
 
 export default EVitara;
+
+const EV360 = () => {
+  return (
+    <div
+      className="relative bg-center bg-no-repeat bg-cover"
+      style={{
+        backgroundImage: "url('https://your-image-url-here.jpg')",
+      }}
+    >
+      <div className="bg-black bg-opacity-50">
+        {/* Small screen title */}
+        <div className="text-center">
+          <div className="w-full pt-10 pb-2 text-3xl text-center uppercase sm:text-4xl md:text-5xl lg:hidden">
+            360
+            <sup>
+              <span className="text-lg">0</span>
+            </sup>{" "}
+            View
+          </div>
+          <div className="pb-4 lg:hidden">
+          Take a 360-degree look around the Evitara and get to know it better.
+          </div>
+        </div>
+
+        {/* View360 Component */}
+        <div className="relative w-full max-w-7xl mx-auto px-4 h-[200px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[670px]">
+          {/* Force View360 container height */}
+          <div className="flex items-center justify-center w-full h-full overflow-hidden">
+            <div className="w-full h-full">
+              <View360
+                path="https://images-saboomaruti-in.s3.ap-south-1.amazonaws.com/nexa/evitara/360"
+                count={46}
+                format="png"
+              />
+            </div>
+          </div>
+{/* Left/Right Arrows */}
+<div className="absolute left-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:left-2 md-left-2 lg:left-[0px] 2xl:left-[-100px]  z-10">
+  <GiReturnArrow className="text-3xl rotate-180 lg:text-5xl animate-pulse" />
+</div>
+
+          <div className="absolute right-0 flex flex-col items-center text-red-600 -translate-y-1/2 top-1/2 sm:right-10 md:right-2 lg:right-[0px] 2xl:right-[-100px] ">
+            <GiReturnArrow className="text-3xl lg:text-5xl animate-pulse" />
+          </div>
+
+          {/* 360 Icons and Text for Desktop */}
+          <div className="absolute flex-col items-center hidden w-full text-white lg:flex top-6">
+            <div className="text-4xl font-bold uppercase">
+              360
+              <sup>
+                <span className="text-lg">0</span>
+              </sup>{" "}
+              View
+            </div>
+            <div className="mt-2 text-lg">
+            Take a 360-degree look around the Evitara and get to know it better.
+            </div>
+          </div>
+
+          {/* Icon Left Top for md+ */}
+          <div className="absolute flex-col items-center hidden text-white md:flex top-6 left-6">
+            <TbView360 className="text-3xl lg:text-5xl animate-pulse" />
+            <Tb360View className="text-xl lg:text-4xl" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
